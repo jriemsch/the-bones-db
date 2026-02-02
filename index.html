@@ -18,12 +18,24 @@
 <body>
 
   <iframe
+    id="player"
     width="560"
     height="315"
-    src="https://www.youtube.com/embed/evRhRCAu2t0?playsinline=1&rel=0&modestbranding=1"
     frameborder="0"
     allowfullscreen
   ></iframe>
+
+  <script>
+    // Read the "video" query parameter
+    const params = new URLSearchParams(window.location.search);
+    const videoId = params.get("video") || "evRhRCAu2t0"; // fallback ID
+
+    // Build the YouTube embed URL
+    const src = `https://www.youtube.com/embed/${videoId}?playsinline=1&rel=0&modestbranding=1`;
+
+    // Apply it to the iframe
+    document.getElementById("player").src = src;
+  </script>
 
 </body>
 </html>
