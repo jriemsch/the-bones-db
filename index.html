@@ -42,7 +42,7 @@
     const params = new URLSearchParams(window.location.search);
     const videoId = params.get("video") || "evRhRCAu2t0";
 
-    const src = `https://www.youtube.com/embed/${videoId}?playsinline=1&rel=0&modestbranding=1`;
+    const src = `https://www.youtube.com/embed/${videoId}?playsinline=1&rel=0&modestbranding=1&autoplay=1`;
 
     document.getElementById("player").src = src;
   </script>
