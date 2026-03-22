@@ -1,5 +1,6 @@
 Name,Description,Release Date,Type,Cover Original,Track Number,Appears On,Top Songs,Spotify,Apple Music,YouTube,Genius,SongBPM
-Do I Wanna Know? (triple j Like a Version),,,"Core Track, Cover",Arctic Monkeys,,Do I Wanna Know? (triple j Like a Version),,,,https://www.youtube.com/watch?v=CjwwmFrsX_E
+Do I Wanna Know? (triple j Like a Version),,,"Core Track, Cover",Arctic Monkeys,,Do I Wanna Know? (triple j Like a Version)
+Recover,,,Core Track,,1,Recover
 Gun,,,Core Track,,1,EP
 Recover,,,Core Track,,2,EP
 ZVVL,,,Core Track,,3,EP
@@ -32,11 +33,11 @@ Gun (Spotify Sessions),,,"Core Track, Live Recording",,2,Spotify Sessions (live 
 Lies (Spotify Sessions),,,"Core Track, Live Recording",,3,Spotify Sessions (live 2014)
 Under the Tide (Spotify Sessions),,,"Core Track, Live Recording",,4,Spotify Sessions (live 2014)
 The Mother We Share (Spotify Sessions),,,"Core Track, Live Recording",,5,Spotify Sessions (live 2014)
-The Mother We Share,,,Core Track,,1,The Bones of What You Believe,Top,,,https://www.youtube.com/watch?v=_mTRvJ9fugM
+The Mother We Share,,,Core Track,,1,The Bones of What You Believe,Top
 We Sink,,,Core Track,,2,The Bones of What You Believe,Top
-Gun,,,Core Track,,3,The Bones of What You Believe,Top,,,https://www.youtube.com/watch?v=ktoaj1IpTbw
+Gun,,,Core Track,,3,The Bones of What You Believe,Top
 Tether,,,Core Track,,4,The Bones of What You Believe
-Lies,,,Core Track,,5,The Bones of What You Believe,Top,,,https://www.youtube.com/watch?v=81RqEnvczV8
+Lies,,,Core Track,,5,The Bones of What You Believe,Top
 Under the Tide,,,Core Track,,6,The Bones of What You Believe
 Recover,,,Core Track,,7,The Bones of What You Believe,Top
 Night Sky,,,Core Track,,8,The Bones of What You Believe
@@ -44,26 +45,7 @@ Science/Visions,,,Core Track,,9,The Bones of What You Believe
 Lungs,,,Core Track,,10,The Bones of What You Believe
 By the Throat,,,Core Track,,11,The Bones of What You Believe
 You Caught the Light,,,Core Track,,12,The Bones of What You Believe
-Strong Hand,,,Bonus Track,,,The Bones of What You Believe
-Broken Bones,,,Bonus Track,,,The Bones of What You Believe
-Recover (Alucard Session),,,"Bonus Track, Live Recording",,,The Bones of What You Believe
-The Mother We Share (Alucard Session),,,"Bonus Track, Live Recording",,,The Bones of What You Believe
-Gun (Alucard Session),,,"Bonus Track, Live Recording",,,The Bones of What You Believe
-Tightrope (Alucard session),,,"Bonus Track, Cover",Janelle Monáe,,The Bones of What You Believe
-It’s Not Right but It’s Okay,,,"Bonus Track, Cover",Whitney Houston,,The Bones of What You Believe,,,,https://www.youtube.com/watch?v=NMSwQYGR7_A
-The Mother We Share (Errors remix),,,"Bonus Track, Remix",,,The Bones of What You Believe
-The Mother We Share (We Were Promised Jetpacks remix),,,"Bonus Track, Remix",,,The Bones of What You Believe
-The Mother We Share (Blood Diamonds remix),,,"Bonus Track, Remix",,,The Bones of What You Believe
-The Mother We Share (Kowton’s Feeling Fragile remix),,,"Bonus Track, Remix",,,The Bones of What You Believe
-Gun (KDA remix),,,"Bonus Track, Remix",,,The Bones of What You Believe
-Recover (Claire remix),,,"Bonus Track, Remix",,,The Bones of What You Believe
-Recover (Kingdom remix),,,"Bonus Track, Remix",,,The Bones of What You Believe
-Recover (KDA remix),,,"Bonus Track, Remix",,,The Bones of What You Believe
-Tether (Junior Sanchez remix),,,"Bonus Track, Remix",,,The Bones of What You Believe
-Under the Tide (remix),,,"Bonus Track, Remix",,,The Bones of What You Believe
-Recover (live at Village Underground),,,"Bonus Track, Live Recording",,,The Bones of What You Believe
-Lies (live at Village Underground),,,"Bonus Track, Live Recording",,,The Bones of What You Believe
-Dead Air,,,Soundtrack,,,"The Hunger Games: Mockingjay, Part 1"
+Dead Air,,,"Core Track, Soundtrack",,,"The Hunger Games: Mockingjay, Part 1"
 The Mother We Share,,,Core Track,,A,The Mother We Share
 The Mother We Share (a JD Twitch Optimo mix),,,"Core Track, Remix",,B1,The Mother We Share
 The Mother We Share (Miaoux Miaoux remix),,,"Core Track, Remix",,B2,The Mother We Share
@@ -75,8 +57,11 @@ Strong Hand,,,Core Track,,3,Under the Tide
 The Mother We Share (Alucard session),,,"Core Track, Live Recording",,4,Under the Tide
 Gun (Alucard session),,,"Core Track, Live Recording",,5,Under the Tide
 We Sink,,,Core Track,,1,We Sink
-It's Not Right But It's Okay,,,"Core Track, Cover",Whitney Houston,2,We Sink
-I Would Die 4 V (Prince cover),,,Cover,Prince,,,,,,https://www.youtube.com/watch?v=Xr_U78CjFjQ&list=RDXr_U78CjFjQ&start_radio=1
+Recover (Claire remix),,,Core Track,,2,We Sink
+The Mother We Share (Alucard session),,,Core Track,,3,We Sink
+Lies (Tourist remix),,,Bonus Track,,4,We Sink
+Gun (Groundislava remix),,,Bonus Track,,5,We Sink
+I Would Die 4 V (Prince cover),,,Cover,Prince
 The Mother We Share (Vanic remix),,,Remix
 The Mother We Share (Modern Dealer remix),,,Remix
 Tether (Eric Prydz Vs. CHVRCHES),,,"Core Track, Remix",,1,Tether (Eric Prydz Vs. CHVRCHES)
@@ -158,19 +143,19 @@ Good Girls,,,Core Track,,7,Screen Violence,Top
 Lullabies,,,Core Track,,8,Screen Violence
 Nightmares,,,Core Track,,9,Screen Violence
 Better If You Don’t,,,Core Track,,10,Screen Violence
-Asking for a Friend,,,Core Track,,1,Screen Violence: Director's Cut
-He Said She Said,,,Core Track,,2,Screen Violence: Director's Cut
-California,,,Core Track,,3,Screen Violence: Director's Cut
-Violent Delights,,,Core Track,,4,Screen Violence: Director's Cut
-How Not to Drown,,,Core Track,,5,Screen Violence: Director's Cut
-Final Girl,,,Core Track,,6,Screen Violence: Director's Cut
-Good Girls,,,Core Track,,7,Screen Violence: Director's Cut
-Lullabies,,,Core Track,,8,Screen Violence: Director's Cut
-Nightmares,,,Core Track,,9,Screen Violence: Director's Cut
-Better If You Don’t,,,Core Track,,10,Screen Violence: Director's Cut
-Killer,,,Core Track,,11,Screen Violence: Director's Cut
-Screaming,,,Core Track,,12,Screen Violence: Director's Cut
-Bitter End,,,Core Track,,13,Screen Violence: Director's Cut
+Asking for a Friend,,,Core Track,,1,Screen Violence: Director’s Cut
+He Said She Said,,,Core Track,,2,Screen Violence: Director’s Cut
+California,,,Core Track,,3,Screen Violence: Director’s Cut
+Violent Delights,,,Core Track,,4,Screen Violence: Director’s Cut
+How Not to Drown,,,Core Track,,5,Screen Violence: Director’s Cut
+Final Girl,,,Core Track,,6,Screen Violence: Director’s Cut
+Good Girls,,,Core Track,,7,Screen Violence: Director’s Cut
+Lullabies,,,Core Track,,8,Screen Violence: Director’s Cut
+Nightmares,,,Core Track,,9,Screen Violence: Director’s Cut
+Better If You Don’t,,,Core Track,,10,Screen Violence: Director’s Cut
+Killer,,,Core Track,,11,Screen Violence: Director’s Cut
+Screaming,,,Core Track,,12,Screen Violence: Director’s Cut
+Bitter End,,,Core Track,,13,Screen Violence: Director’s Cut
 Leave a Trace,,,Core Track,,1,Leave a Trace
 Never Ending Circles,,,Core Track,,2,Leave a Trace
 Clearest Blue,,,Core Track,,3,Leave a Trace
@@ -255,18 +240,18 @@ Leave a Trace (Goldroom remix),,,"Core Track, Remix",,D5,Every Open Eye (10th An
 Empty Threat (Whyt Noyz remix),,,"Bonus Track, Remix",,,Every Open Eye (10th Anniversary Special Edition)
 Clearest Blue (KDA remix),,,"Bonus Track, Remix",,,Every Open Eye (10th Anniversary Special Edition)
 Clearest Blue (live at Pitchfork Music Festival),,,"Bonus Track, Live Recording",,,Every Open Eye (10th Anniversary Special Edition)
-The Mother We Share,,,Core Track,,A1,The Bones of What You Believe (10 year anniversary special edition),,,,https://www.youtube.com/watch?v=_mTRvJ9fugM
-We Sink,,,Core Track,,A2,The Bones of What You Believe (10 year anniversary special edition)
-Gun,,,Core Track,,A3,The Bones of What You Believe (10 year anniversary special edition),,,,https://www.youtube.com/watch?v=ktoaj1IpTbw
-Tether,,,Core Track,,A4,The Bones of What You Believe (10 year anniversary special edition)
-Lies,,,Core Track,,A5,The Bones of What You Believe (10 year anniversary special edition),,,,https://www.youtube.com/watch?v=81RqEnvczV8
-Under the Tide,,,Core Track,,A6,The Bones of What You Believe (10 year anniversary special edition)
-Recover,,,Core Track,,B1,The Bones of What You Believe (10 year anniversary special edition)
-Night Sky,,,Core Track,,B2,The Bones of What You Believe (10 year anniversary special edition)
-Science/Visions,,,Core Track,,B3,The Bones of What You Believe (10 year anniversary special edition)
-Lungs,,,Core Track,,B4,The Bones of What You Believe (10 year anniversary special edition)
-By the Throat,,,Core Track,,B5,The Bones of What You Believe (10 year anniversary special edition)
-You Caught the Light,,,Core Track,,B6,The Bones of What You Believe (10 year anniversary special edition)
+The Mother We Share (Remastered 2023),,,Core Track,,A1,The Bones of What You Believe (10 year anniversary special edition)
+We Sink (Remastered 2023),,,Core Track,,A2,The Bones of What You Believe (10 year anniversary special edition)
+Gun (Remastered 2023),,,Core Track,,A3,The Bones of What You Believe (10 year anniversary special edition)
+Tether (Remastered 2023),,,Core Track,,A4,The Bones of What You Believe (10 year anniversary special edition)
+Lies (Remastered 2023),,,Core Track,,A5,The Bones of What You Believe (10 year anniversary special edition)
+Under the Tide (Remastered 2023),,,Core Track,,A6,The Bones of What You Believe (10 year anniversary special edition)
+Recover (Remastered 2023),,,Core Track,,B1,The Bones of What You Believe (10 year anniversary special edition)
+Night Sky (Remastered 2023),,,Core Track,,B2,The Bones of What You Believe (10 year anniversary special edition)
+Science/Visions (Remastered 2023),,,Core Track,,B3,The Bones of What You Believe (10 year anniversary special edition)
+Lungs (Remastered 2023),,,Core Track,,B4,The Bones of What You Believe (10 year anniversary special edition)
+By the Throat (Remastered 2023),,,Core Track,,B5,The Bones of What You Believe (10 year anniversary special edition)
+You Caught the Light (Remastered 2023),,,Core Track,,B6,The Bones of What You Believe (10 year anniversary special edition)
 Manhattan,,,Core Track,,C1,The Bones of What You Believe (10 year anniversary special edition)
 White Summer,,,Core Track,,C2,The Bones of What You Believe (10 year anniversary special edition)
 Talking in My Sleep,,,Core Track,,C3,The Bones of What You Believe (10 year anniversary special edition)
@@ -383,3 +368,105 @@ Tether (Junior Sanchez Remix),,,"Core Track, Remix",,26,The Bones Of What You Be
 Gun (KDA Remix),,,"Core Track, Remix",,27,The Bones Of What You Believe (Deluxe Edition)
 The Mother We Share (Blood Diamonds Remix),,,"Core Track, Remix",,28,The Bones Of What You Believe (Deluxe Edition)
 Recover (KDA Remix),,,"Core Track, Remix",,29,The Bones Of What You Believe (Deluxe Edition)
+The Mother We Share,,,Core Track,,1,The Bones Of What You Believe (Special Edition)
+We Sink,,,Core Track,,2,The Bones Of What You Believe (Special Edition)
+Gun,,,Core Track,,3,The Bones Of What You Believe (Special Edition)
+Tether,,,Core Track,,4,The Bones Of What You Believe (Special Edition)
+Lies,,,Core Track,,5,The Bones Of What You Believe (Special Edition)
+Under the Tide,,,Core Track,,6,The Bones Of What You Believe (Special Edition)
+Recover,,,Core Track,,7,The Bones Of What You Believe (Special Edition)
+Night Sky,,,Core Track,,8,The Bones Of What You Believe (Special Edition)
+Science/Visions,,,Core Track,,9,The Bones Of What You Believe (Special Edition)
+Lungs,,,Core Track,,10,The Bones Of What You Believe (Special Edition)
+By the Throat,,,Core Track,,11,The Bones Of What You Believe (Special Edition)
+You Caught the Light,,,Core Track,,12,The Bones Of What You Believe (Special Edition)
+Strong Hand,,,Core Track,,13,The Bones Of What You Believe (Special Edition)
+Broken Bones,,,Core Track,,14,The Bones Of What You Believe (Special Edition)
+Gun (KDA remix),,,"Core Track, Remix",,15,The Bones Of What You Believe (Special Edition)
+The Mother We Share (We Were Promised Jetpacks remix),,,"Core Track, Remix",,16,The Bones Of What You Believe (Special Edition)
+Recover (live at Village Underground),,,"Bonus Track, Live Recording",,17,The Bones Of What You Believe (Special Edition)
+Lies (live at Village Underground),,,"Bonus Track, Live Recording",,18,The Bones Of What You Believe (Special Edition)
+The Mother We Share,,,Core Track,,1,The Bones of What You Believe (European Limited Edition)
+We Sink,,,Core Track,,2,The Bones of What You Believe (European Limited Edition)
+Gun,,,Core Track,,3,The Bones of What You Believe (European Limited Edition)
+Tether,,,Core Track,,4,The Bones of What You Believe (European Limited Edition)
+Lies,,,Core Track,,5,The Bones of What You Believe (European Limited Edition)
+Under the Tide,,,Core Track,,6,The Bones of What You Believe (European Limited Edition)
+Recover,,,Core Track,,7,The Bones of What You Believe (European Limited Edition)
+Night Sky,,,Core Track,,8,The Bones of What You Believe (European Limited Edition)
+Science/Visions,,,Core Track,,9,The Bones of What You Believe (European Limited Edition)
+Lungs,,,Core Track,,10,The Bones of What You Believe (European Limited Edition)
+By the Throat,,,Core Track,,11,The Bones of What You Believe (European Limited Edition)
+You Caught the Light,,,Core Track,,12,The Bones of What You Believe (European Limited Edition)
+Strong Hand,,,Core Track,,13,The Bones of What You Believe (European Limited Edition)
+The Mother We Share (Errors remix),,,"Core Track, Remix",,14,The Bones of What You Believe (European Limited Edition)
+The Mother We Share,,,Core Track,,1,The Bones of What You Believe (Japanese Edition)
+We Sink,,,Core Track,,2,The Bones of What You Believe (Japanese Edition)
+Gun,,,Core Track,,3,The Bones of What You Believe (Japanese Edition)
+Tether,,,Core Track,,4,The Bones of What You Believe (Japanese Edition)
+Lies,,,Core Track,,5,The Bones of What You Believe (Japanese Edition)
+Under the Tide,,,Core Track,,6,The Bones of What You Believe (Japanese Edition)
+Recover,,,Core Track,,7,The Bones of What You Believe (Japanese Edition)
+Night Sky,,,Core Track,,8,The Bones of What You Believe (Japanese Edition)
+Science/Visions,,,Core Track,,9,The Bones of What You Believe (Japanese Edition)
+Lungs,,,Core Track,,10,The Bones of What You Believe (Japanese Edition)
+By the Throat,,,Core Track,,11,The Bones of What You Believe (Japanese Edition)
+You Caught the Light,,,Core Track,,12,The Bones of What You Believe (Japanese Edition)
+Strong Hand,,,Core Track,,13,The Bones Of What You Believe (Special Edition)
+Broken Bones,,,Core Track,,14,The Bones Of What You Believe (Special Edition)
+Gun (KDA remix),,,"Core Track, Remix",,15,The Bones Of What You Believe (Special Edition)
+The Mother We Share (We Were Promised Jetpacks remix),,,"Core Track, Remix",,16,The Bones Of What You Believe (Special Edition)
+The Mother We Share (Blood Diamonds remix),,,"Core Track, Remix",,17,The Bones of What You Believe (Japanese Edition)
+The Mother We Share (Kowton’s Feeling Fragile remix),,,"Core Track, Remix",,18,The Bones of What You Believe (Japanese Edition)
+The Mother We Share (Megamix),,,"Core Track, Remix",,1,The Mother We Share (Megamix)
+Clearest Blue (KDA Dub),,,"Core Track, Remix",,1,Clearest Blue (KDA Dub)
+We Sink (The Range Remix),,,"Core Track, Remix",,1,We Sink (The Range Remix)
+Bela Lugosi's Dead (Bauhaus Cover),,,"Core Track, Cover",,1, Bela Lugosi's Dead (Bauhaus Cover)
+Something in the Air,,,Core Track,,,Vicious Creature
+Crocodile Tears,,,Core Track,,,Vicious Creature
+Shame,,,Core Track,,,Vicious Creature
+Anywhere But Dancing,,,Core Track,,,Vicious Creature
+Punch Drunk,,,Core Track,,,Vicious Creature
+"Oh, Mother",,,Core Track,,,Vicious Creature
+"Sorry, Etc",,,Core Track,,,Vicious Creature
+Change Shapes,,,Core Track,,,Vicious Creature
+Mantra,,,Core Track,,,Vicious Creature
+A Work of Fiction,,,Core Track,,,Vicious Creature
+Sunday Best,,,Core Track,,,Vicious Creature
+Are You Awake?,,,Core Track,,,Vicious Creature
+Bird
+Under the knife
+Like a Prayer  (Madonna Cover),,,Cover,Madonna
+At Home In My Home,,,Core Track,,,At Home In My Home
+Bitches,,,,,1,Triple A-Side
+Cosplay The Hard Way,,,,,2,Triple A-Side
+Back In A Liquid Minute,,,,,3,Triple A-Side
+Dear Middle Aged Ponytail,,,,,1,Plural
+Your Stage Left Or My Stage Left?,,,,,2,Plural
+A Mighty Handful,,,,,3,Plural
+Crash Your Face,,,,,1,Blue Sky Archives EP
+"Sleeves Rolled Up, The Team Rolls Out!",,,,,2,Blue Sky Archives EP
+The Highest Of Fives,,,,,3,Blue Sky Archives EP
+Bitter Sweet Symphony (The Verve Cover),,,Live Recording,The Verve
+Stay another day (East 17 Cover),,,,East 17
+Cry me a river (Justin Timberland Cover),,,,Justin Timberland
+What do you mean (Justin Bieber Cover),,,,Justin Bieber
+99 Luftballons (Nena Cover),,,Live Recording,Nena
+Hero (Enrique Iglesias Cover),,,,Enrique Iglesias
+Paris (The 1975 Cover),,,,The 1975
+That Thing you do (The Wonders Cover),,,,The Wonders
+Voices Carry (til Tuesday Cover),,,,Til Tuesday 
+Fuck and Run (Liz Phair Cover),,,,Liz Phair
+I will follow you into the Dark (Death Cab for Cutie Cover),,,,Death Cab for Cutie
+Modern Girl (Sleater-Kinney Cover),,,,Sleater-Kinney
+Miss World (Hole Cover),,,,Hole
+Don't Speak (No Doubt Cover),,,,No Dobut
+Say What You Want (Texas Cover),,,,Texas
+Dreams (Fleetwood Mac Cover),,,,Fleetwood Mac
+Viva Forever (Spice Girls Cover),,,,Spice Girls
+Fast Car (Tracy Chapman Cover),,,,Tracy Chapman
+Ain't You (Kleenex / LiLiPUT Cover),,,,Kleenex / LiLiPUT
+Personal Jesus (Depeche Mode Cover),,,,Depeche Mode
+Back for Good (Take That Cover),,,,Take That
+Trouble (Coldplay Cover),,,,Coldplay
+Lose Your Head - London Grammar,,,,London Grammar

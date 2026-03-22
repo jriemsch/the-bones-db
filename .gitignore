@@ -1,5 +1,9 @@
 service_account.json
 
+# Large original images - stored locally, not committed
+originals/
+socials-originals/
+
 # macOS
 .DS_Store
 **/.DS_Store
