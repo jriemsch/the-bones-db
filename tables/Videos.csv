@@ -1,12 +1,14 @@
-ID,Group,Name,Top,Description,Era,Release Date,Daytime,Song,Type,YouTube,Embeddable,Spalte 1,Spalte 2,Spalte 3,Spalte 4,Spalte 5,Spalte 6,Spalte 7,Spalte 8,Spalte 9,Spalte 10,Spalte 11,Spalte 12,Spalte 13,Spalte 14,Spalte 15,Spalte 16,Spalte 17
+ID,Group,Name,Top,Description,Era,Release Date,Daytime,Song,Type,YouTube,Embeddable,Extracted
 ,,Blue Sky Archives promo,,,Blue Sky Archives EP,17.05.2010,,,BTS,https://www.youtube.com/watch?v=22_PPQYeUrs
 ,,The (Middle of the) Road,,,Blue Sky Archives EP,28.12.2010,,,BTS,https://www.youtube.com/watch?v=Wwq-NPCY2g0
 ,,Blue Sky Archives - A Mighty Handful (Radar Session),,,Plural,05.04.2011,,A Mighty Handful,Live Video (Pro),https://www.youtube.com/watch?v=-dpLSAyAIN0
+,,Blue Sky Archives - Unholy Paroxysms of Excitement (Radar Session),,,Plural,05.04.2011,,Unholy Paroxysms of Excitement,Live Video (Pro),https://www.youtube.com/watch?v=vA78f4OP8fY
 ,,Blue Sky Archives - Dear Middle Aged Ponytail,,,Plural,21.05.2011,,Dear Middle Aged Ponytail,Live Video (Pro),https://www.youtube.com/watch?v=pM0ogVHkSBY
 ,,Blue Sky Archives recording at Chem 19 - September 2011 (part 1),,,Triple A-Side,05.10.2011,,,BTS,https://www.youtube.com/watch?v=7YuPUyy5HT8
 ,,Blue Sky Archives recording at Chem 19 - September 2011 (part 2),,,Triple A-Side,05.10.2011,,,BTS,https://www.youtube.com/watch?v=aIkxA8_pWaE
 ,,Cosplay The Hard Way,,,Triple A-Side,31.01.2012,,Cosplay The Hard Way,Music Video,https://www.youtube.com/watch?v=gFSau8BUc0U
 ,,#001 Blue Sky Archives | Silencio Glasgow,,,Triple A-Side,01.02.2012,,"Bitches, Back In A Liquid Minute",Live Video (Pro),https://www.youtube.com/watch?v=C8FmCq3EpXY
+,,"Babbel-Net Podcast #73 - Blue Sky Archives presents their newest ""Bitches""",,,Triple A-Side,15.02.2012,,Bitches,Live Video (Pro),https://www.youtube.com/watch?v=Q3ekDjUadOI
 _Y7kP98ty1g,"Glasgow, 05.07.2012",CHVRCHES - Lies (Live),Top,,The Bones of What You Believe,05.07.2012,,Lies,Live Video (Pro),https://www.youtube.com/watch?v=_Y7kP98ty1g,Yes
 kFcsz1fJwf8,"Glasgow, 05.07.2012","Churches (now Chvrches) - Lies (debut gig, Art School Glasgow)",Top,Original version that was turned into the official video,The Bones of What You Believe,05.07.2012,,Lies,Live Video (Fan),https://www.youtube.com/watch?v=kFcsz1fJwf8,Yes
 7MWtxSaePoY,"Glasgow, 22.07.2012","Chvrches - Recover, live @ Stereo, Glasgow 22.07.2012",Top,,The Bones of What You Believe,22.07.2012,,Recover,Live Video (Fan),https://www.youtube.com/watch?v=7MWtxSaePoY,Yes
@@ -24,10 +26,10 @@ Nn9c1vOr54s,"Dublin, 11.11.2012",Chvrches - Lungs (Dublin 2012),Top,,The Bones o
 aIHUyIW0gfo,Pitchfork,"Chvrches - ""Now is Not The Time""",Top,,The Bones of What You Believe,20.11.2012,,Now Is Not the Time,Live Video (Pro),https://www.youtube.com/watch?v=aIHUyIW0gfo,Yes
 JAV_YmtvVm0,Pitchfork,"Chvrches - ""Recover""",Top,,The Bones of What You Believe,20.11.2012,,Recover,Live Video (Pro),https://www.youtube.com/watch?v=JAV_YmtvVm0,Yes
 ,,"Chvrches - Night Sky (Live @ The Forum, London, 20.11.12)",,,The Bones of What You Believe,20.11.2012,,Night Sky,Live Video (Fan),https://www.youtube.com/watch?v=NUfPjBujCtg
-PO2BRYdW9qk,"Ally McCrae, 18.12.2012",CHVRCHES chat to Ally McCrae about being No. 5 in the Sound of 2013,Top,,The Bones of What You Believe,18.12.2012,,,Interview,https://www.youtube.com/watch?v=PO2BRYdW9qk,Yes
+PO2BRYdW9qk,"Ally McCrae, 18.12.2012",CHVRCHES chat to Ally McCrae about being No. 5 in the Sound of 2013,Top,,The Bones of What You Believe,18.12.2012,,,Interview,https://www.youtube.com/watch?v=PO2BRYdW9qk,Yes,extracted
 ,,CHVRCHES - Recover & Lies live @ Eurosonic,,,The Bones of What You Believe,10.01.2013,,"Recover, Lies",Live Video (Fan),https://www.youtube.com/watch?v=ifZU1rzWLIg
-,,Chvrches interview - Lauren and Iain (part 1),,,The Bones of What You Believe,21.02.2013,,,Interview,https://www.youtube.com/watch?v=8bOceBO5ZIs
-,,Chvrches interview - Lauren and Iain (part 2),,,The Bones of What You Believe,21.02.2013,,,Interview,https://www.youtube.com/watch?v=VRdy97VdATw
+,,Chvrches interview - Lauren and Iain (part 1),,,The Bones of What You Believe,21.02.2013,,,Interview,https://www.youtube.com/watch?v=8bOceBO5ZIs,,extracted
+,,Chvrches interview - Lauren and Iain (part 2),,,The Bones of What You Believe,21.02.2013,,,Interview,https://www.youtube.com/watch?v=VRdy97VdATw,,extracted
 qOIgJ5ncgjI,"Bristol, 26.02.2013",Chvrches - Gun - Thekla Bristol - 26.02.2013,Top,,The Bones of What You Believe,26.02.2013,,Gun,Live Video (Fan),https://www.youtube.com/watch?v=qOIgJ5ncgjI,Yes
 ,,Chvrches - Lungs - Thekla Bristol - 26.02.13,,,The Bones of What You Believe,26.02.2013,,Lungs,Live Video (Fan),https://www.youtube.com/watch?v=uoQXkQ_WmN4
 ,,Chvrches - Lies - Thekla Bristol - 26.02.13,,,The Bones of What You Believe,26.02.2013,,Lies,Live Video (Fan),https://www.youtube.com/watch?v=ZYkkXGCzGaE
@@ -52,11 +54,11 @@ ARcSl_cn8O8,"Los Angeles, 12.03.2013",Chvrches - Night Sky ( new song ) - Live @
 skF5AJ7rAQk,"Los Angeles, 12.03.2013",Chvrches - Gun ( new song ) - Live @ The Echo 3-12-13 in HD,,,The Bones of What You Believe,12.03.2013,,Gun,Live Video (Fan),https://www.youtube.com/watch?v=skF5AJ7rAQk,Yes
 ,,"CHVRCHES ""Recover"" @ The Echo (Mar 2013) Live HD",,,The Bones of What You Believe,12.03.2013,,Recover,Live Video (Fan),https://www.youtube.com/watch?v=P29-9gWFkYc
 jdNz5_L6hXc,"SXSW, 13. + 14.03.2013","Chvrches, SXSW 2013 | NPR MUSIC FRONT ROW",Top,,The Bones of What You Believe,13.03.2013,,The Mother We Share,Live Video (Pro),https://www.youtube.com/watch?v=jdNz5_L6hXc,Yes
-VIMEO_70641670,mtvU Pop Quiz,mtvU Pop Quiz Chvrches,Top,,The Bones of What You Believe,13.03.2013,,,Interview,https://vimeo.com/70641670?turnstile=0.zoBaqDth3ZPtYpbcPmjfrKd1J_YDPmUheg4j2LSYL9oTf5DGlC6CELaukCMU4tyUITkUk-lkF0247AdeUviJe2DKNf7o0cebL-mNgYeqOi2Lk0KMoAIi318hZZhERV4J29zLhE3AnZK58BiFkFPQ6fk1r9fh3GRlr72jRGq34E5mk8Bu_ddF8bODht5FqSWVuXFpUg7CcKJAMGFuDudty0AGv6xSKDr0oKuiQ7Dyy6uDUvF87_BnZzC1Bmo1RuwYkb5ZBFpQXi2KyUxT_Hq1uzI1bNxhbOdMcJYPh3VCl5G6NWNVbbWXIONXI3gb7N9g3Vg5YNlgr8g4YXDnPcdmZ12Najj9TgO4bADu3lTt_4SVVdba8EQ40coZjXki9M-7_QCQSZ9LX5rQrl9-BmrG4W-a1DMzhil7j7GEVPRqAu9jWGosHlOdqszQLOYRiCFHUabjTyGSbKR4954QJCQUtRcV_jNqxrCQWS12YFfXuQ8h7Gp6JnfGUGDL6kRb8FU_7IfeCdbbezJcXGY9HJ6C0vDVYf-q66oSGNqYuZ5oV3ZwV9mAzj6f3bjmcLtFsxlw_bk16UutPUfjTUzjuIthMk7I6YZrJBkaUeNlABv_7LgSwxb-MU1ZomBZLKpxldN1peN7PVnP3oio5BcgwMfe_UUKzBgXly_Qqpas9X77qqhpIb-tSBW89m1B05hdWHWD-XhJbC5mYyW1WYL4AAof7M9uqcylW3asvEGQRggOtm1CmqAX3pF1ZORGN8PvH6c276eniLDmVQzLGVj6MpUwhZU3AatF4EO_UZ3JN5Gm9atslUA7ft_ADXXZDD967uLcpHPLta1T7fLjhuSwS8QlBQ0wKbYEq2oIAoWPSdK24NxdBv_hJc008YsMNpFHg-3Cq4-KzFtBWuJK1Aco5xsg_MZVb4_0SKulHXi1zjVge99Y94jdZuac3pFeN18ZLE6q.wpwBOgySRq9F93vC_cVhyw.4f996ff43ec67e06f1ab5d873a5c45a8bab965bfe25e81890b8bd46943d9bf94
+VIMEO_70641670,mtvU Pop Quiz,mtvU Pop Quiz Chvrches,Top,,The Bones of What You Believe,13.03.2013,,,Interview,https://vimeo.com/70641670,,extracted
 J74kRMW2lLg,"SXSW, 13. + 14.03.2013",Chvrches - Recover || Baeble Music,Top,,The Bones of What You Believe,14.03.2013,,Recover,Live Video (Pro),https://www.youtube.com/watch?v=J74kRMW2lLg,Yes
 ,,CHVRCHES - Live at Hype Machine's Hype Hotel,,,The Bones of What You Believe,14.03.2013,Late,,Live Video (Pro),https://tv.apple.com/fi/movie/chvrches---live-at-hype-machines-hype-hotel/umc.cmc.2rf6eqr6yr8iipx4rdf0fc3uo
 ,,CHVRCHES - Lies (Original Version),,,The Bones of What You Believe,18.03.2013,,Lies,Live Video (Pro),https://www.youtube.com/watch?v=7byeYatIoAI
-CZFFmJxovS0,"Anchor Shop, 20.03.2013",Anchor Shop TV: CHVRCHES,Top,,The Bones of What You Believe,20.03.2013,,,Interview,https://www.youtube.com/watch?v=CZFFmJxovS0,Yes
+www.youtube.com-watch-v-CZFFmJxovS0,"Anchor Shop, 20.03.2013",Anchor Shop TV: CHVRCHES,Top,,The Bones of What You Believe,20.03.2013,,,Interview,https://www.youtube.com/watch?v=CZFFmJxovS0,Yes,extracted
 ,,"CHVRCHES - Recover (Virgin Mobile Mod Club, Toronto March 20, 2013)",,,The Bones of What You Believe,20.03.2013,,Recover,Live Video (Fan),https://www.youtube.com/watch?v=Ey-oqCgFU9U
 ,,"CHVRCHES - Lies (Mod Club, Toronto - CMW - Mar. 20/13)",,,The Bones of What You Believe,20.03.2013,,Lies,Live Video (Fan),https://www.youtube.com/watch?v=nhi54rsgL0g
 ,,"""Lungs"" (Live at Virgin Mobile Mod Club) - CHVRCHES",,,The Bones of What You Believe,20.03.2013,,Lungs,Live Video (Fan),https://www.youtube.com/watch?v=HC7b-TuvDSU
@@ -81,7 +83,7 @@ cPczf2WaBK4,"Brussels, 10.05.2013","CHVRCHES - Recover (Botanique, 10 mai 2013)"
 ,,CHVRCHES - Lies (live in Munich 12.05.13),,,The Bones of What You Believe,12.05.2013,,Lies,Live Video (Fan),https://www.youtube.com/watch?v=388hMN7w-e0
 ,,"Chvrches - Now is not the time, live @ Ampere, München 2013",,,The Bones of What You Believe,12.05.2013,,Now Is Not the Time,Live Video (Fan),https://www.youtube.com/watch?v=LV-iiVBZZZo
 Lqg38J-SThI,"ARTE Introducing, Berlin 15.05.2013","Chvrches Live @ ARTE Introducing ( Lido, Berlin, Germany ) HD",Top,Full Performance,The Bones of What You Believe,15.05.2013,,"Lies, We Sink, Now Is Not the Time, Science/Visions, Recover, The Mother We Share",Live Video (Pro),https://www.youtube.com/watch?v=Lqg38J-SThI,Yes
-,,Glasgow Spezial - Chvrches,,,The Bones of What You Believe,15.05.2013,,,Interview,https://www.youtube.com/watch?v=GDZzh4ZsqNM
+,,Glasgow Spezial - Chvrches,,,The Bones of What You Believe,15.05.2013,,,Interview,https://www.youtube.com/watch?v=GDZzh4ZsqNM,,extracted
 fLr7XjD0vJ8,"Frankfurt, 16.05.2013",CHVRCHES - Lies (live in Frankfurt),Top,,The Bones of What You Believe,16.05.2013,,Lies,Live Video (Fan),https://www.youtube.com/watch?v=fLr7XjD0vJ8,Yes
 ,,Chvrches - The Mother That We Share (HD) - Digital - 18.05.13,,,The Bones of What You Believe,18.05.2013,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=UkAwILnbjns
 ,,Chvrches Recover Live Field Day 2013,,,The Bones of What You Believe,25.05.2013,,Recover,Live Video (Pro),https://www.youtube.com/watch?v=CDfvb1yxMqI
@@ -112,7 +114,7 @@ c0az-09BbKc,"Los Angeles, 01.06.2013",Chvrches - Science and Vision - Live @ the
 ,,Chvrches - The Mother We Share (LIVE),,,The Bones of What You Believe,05.06.2013,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=kXNA8gLdzKw
 ,,Chvrches - Gun (LIVE),,,The Bones of What You Believe,05.06.2013,,Gun,Live Video (Fan),https://www.youtube.com/watch?v=QTt0WSVx4e4
 ,,Chvrches - Now Is Not The Time (LIVE),,,The Bones of What You Believe,05.06.2013,,Now Is Not the Time,Live Video (Fan),https://www.youtube.com/watch?v=Pt_fnAnnLGQ
-P8rcMVSOMOs,"MusicBox, 06.06.2013",Chvrches talks about their new album,Top,,The Bones of What You Believe,06.06.2013,,,Interview,https://www.youtube.com/watch?v=P8rcMVSOMOs
+P8rcMVSOMOs,"MusicBox, 06.06.2013",Chvrches talks about their new album,Top,,The Bones of What You Believe,06.06.2013,,,Interview,https://www.youtube.com/watch?v=P8rcMVSOMOs,,extracted
 ,,"Chvrches - Lies - Live at The Granada Theater - Lawrence, KS 2013",,,The Bones of What You Believe,07.06.2013,,Lies,Live Video (Fan),https://www.youtube.com/watch?v=mwTLfn6UBr0
 ,,"Chvrches - We Sink - Live at The Granada Theater - Lawrence, KS 2013",,,The Bones of What You Believe,07.06.2013,,We Sink,Live Video (Fan),https://www.youtube.com/watch?v=rTOyMtpeKxo
 ,,"Chvrches - Now Is Not the Time - Live at The Granada Theater - Lawrence, KS 2013",,,The Bones of What You Believe,07.06.2013,,Now Is Not the Time,Live Video (Fan),https://www.youtube.com/watch?v=pXzCsYAkeyc
@@ -132,10 +134,10 @@ P8rcMVSOMOs,"MusicBox, 06.06.2013",Chvrches talks about their new album,Top,,The
 ,,"Recover - CHVRCHES @ Lincoln Hall, Chicago 6/11/2013",,,The Bones of What You Believe,11.06.2013,,Recover,Live Video (Fan),https://www.youtube.com/watch?v=SYzNL52lVBU
 hUoDxOEih0E,Toronto 12.06.2013,"Night Sky (Live at The Hoxton, Toronto, 12 June 2013) - CHVRCHES [HD]",Top,,The Bones of What You Believe,12.06.2013,,Night Sky,Live Video (Fan),https://www.youtube.com/watch?v=hUoDxOEih0E,Yes
 s_yCMPXKP18,Toronto 12.06.2013,"""Recover"" (Live at The Hoxton, Toronto, 12 June 2013) - CHVRCHES [HD]",Top,,The Bones of What You Believe,12.06.2013,,Recover,Live Video (Fan),https://www.youtube.com/watch?v=s_yCMPXKP18,Yes
-pRx8z5Xgktk,"Sidewalk Hustle TV, 12.06.2013",Sidewalk Hustle TV: An Interview with CHVRCHES,Top,,The Bones of What You Believe,12.06.2013,,,Interview,https://www.youtube.com/watch?v=pRx8z5Xgktk
+pRx8z5Xgktk,"Sidewalk Hustle TV, 12.06.2013",Sidewalk Hustle TV: An Interview with CHVRCHES,Top,,The Bones of What You Believe,12.06.2013,,,Interview,https://www.youtube.com/watch?v=pRx8z5Xgktk,,extracted
 ,,"""Lungs"" (Live at The Hoxton, Toronto, 12 June 2013) - CHVRCHES [HD]",,,The Bones of What You Believe,12.06.2013,,Lungs,Live Video (Fan),https://www.youtube.com/watch?v=-XybeZb5N-s
 ktoaj1IpTbw,"Gun, Official Music Video, 14.06.2013",CHVRCHES - Gun,Top,,The Bones of What You Believe,14.06.2013,,Gun,Music Video,https://www.youtube.com/watch?v=ktoaj1IpTbw,Yes
-WmxJyYqo92I,"9 Fun Facts, 04.07.2013","CHVRCHES - 9 Fun Facts with CHVRCHES - Interview 2013 - Lauren, Iain & Martin - live 2014",Top,,The Bones of What You Believe,15.06.2013,,,Interview,https://www.youtube.com/watch?v=WmxJyYqo92I,Yes
+www.youtube.com-watch-v-WmxJyYqo92I,"9 Fun Facts, 04.07.2013","CHVRCHES - 9 Fun Facts with CHVRCHES - Interview 2013 - Lauren, Iain & Martin - live 2014",Top,,The Bones of What You Believe,15.06.2013,,,Interview,https://www.youtube.com/watch?v=WmxJyYqo92I,Yes,extracted
 ,,CHVRCHES - Science and Vision (live in Montréal) [HD],,,The Bones of What You Believe,15.06.2013,,Science/Visions,Live Video (Fan),https://www.youtube.com/watch?v=w2OPMspX70s
 ,,"CHVRCHES - Lies (Live at The Paradise, Boston, MA 6/16/13)",,,The Bones of What You Believe,16.06.2013,,Lies,Live Video (Fan),https://www.youtube.com/watch?v=opRC2IAhJJY
 ,,CHVRCHES - The Mother We Share HD (Live Paradise Rock Club Boston),,,The Bones of What You Believe,16.06.2013,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=5dmr6pr8tWo
@@ -300,7 +302,7 @@ K85o3T_g7so,"Studio Brussel, 20.10.2013",Studio Brussel: CHVRCHES - Gun (Live),T
 ,,Chvrches We Sink Melkweg Amsterdam 22 10 2013,,,The Bones of What You Believe,22.10.2013,,We Sink,Live Video (Fan),https://www.youtube.com/watch?v=iL5kInhkGpw
 ,,chvrches - lies @ melkweg (oude zaal) amsterdam 2013-10-22,,,The Bones of What You Believe,22.10.2013,,Lies,Live Video (Fan),https://www.youtube.com/watch?v=w5aK5xGz8Uw
 ,,chvrches - lungs @ melkweg (oude zaal) amsterdam 2013-10-22,,,The Bones of What You Believe,22.10.2013,,Lungs,Live Video (Fan),https://www.youtube.com/watch?v=jlsGgkbZA9Q
-,"Cologne, 23.10.2013",Chvrches // Favourite Albums (Ep. 06),,,The Bones of What You Believe,23.10.2013,,,Interview,https://www.youtube.com/watch?v=3xbe7ELMBmI
+www.youtube.com-watch-v-3xbe7ELMBmI,"Cologne, 23.10.2013",Chvrches // Favourite Albums (Ep. 06),,,The Bones of What You Believe,23.10.2013,,,Interview,https://www.youtube.com/watch?v=3xbe7ELMBmI,,extracted
 ,,"CHVRCHES - The Mother We Share (Live @ Strom, Munich)",,,The Bones of What You Believe,25.10.2013,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=En82-fPQJPM&t=15s
 ,"Apple Store, Berlin 26.10.2013",CHVRCHES Interview on Rise to Fame & Critically Acclaimed Album The Bones Of What You Believe,,,The Bones of What You Believe,26.10.2013,,,Interview,https://www.youtube.com/watch?v=rvKPIsRaWyw
 ,,Chvrches @ Mojo Club (Hamburg),,,The Bones of What You Believe,28.10.2013,,"Gun, Lies, The Mother We Share",Live Video (Fan),https://www.youtube.com/watch?v=GKkbAkXAFT4&t=12s
@@ -326,7 +328,7 @@ K85o3T_g7so,"Studio Brussel, 20.10.2013",Studio Brussel: CHVRCHES - Gun (Live),T
 ,,Tether- Chvrches (The Wiltern 11-18-13),,,The Bones of What You Believe,18.11.2013,,Tether,Live Video (Fan),https://www.youtube.com/watch?v=KIF0gRpgvOw
 ,,CHVRCHES- The Mother We Share (WILTERN 2013),,,The Bones of What You Believe,18.11.2013,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=po2PqqYluP8
 ,"91X San Diego, 19.11.2013",Chvrches Interview Part 1,,,The Bones of What You Believe,19.11.2013,,,Interview,https://www.youtube.com/watch?v=OaWWlggMW7Q
-,"91X San Diego, 19.11.2013",Chvrches Interview Part 2,,,The Bones of What You Believe,19.11.2013,,,Interview,https://www.youtube.com/watch?v=4c84i8R5H-8
+www.youtube.com-watch-v-4c84i8R5H-8,"91X San Diego, 19.11.2013",Chvrches Interview Part 2,,,The Bones of What You Believe,19.11.2013,,,Interview,https://www.youtube.com/watch?v=4c84i8R5H-8,,extracted
 7RyvVEqFqPw,"Live at Jimmy Kimmel Live!, 20.11.2013",CHVRCHES - The Mother We Share (Live At Jimmy Kimmel Live! 11/20/2013) HD,Top,,The Bones of What You Believe,20.11.2013,,The Mother We Share,Live Video (Pro),https://www.youtube.com/watch?v=7RyvVEqFqPw,Yes
 ,,"CHVRCHES ""You guys got a pretty big country""",,,The Bones of What You Believe,22.11.2013,,,Interview,https://www.youtube.com/watch?v=R9RQhlrrWVo
 ,,"CHVRCHES - We Sink, Gun & Lungs - Live at Stubb's",,,The Bones of What You Believe,22.11.2013,,"We Sink, Gun, Lungs",Live Video (Pro),https://www.youtube.com/watch?v=Ijo9Lb9vpJA
@@ -370,6 +372,7 @@ Sj3vThhr-vE,"Live at Billboard Woman in Music, 10.12.2013","Chvrches cover Janel
 ,,"LIVE: Chvrches ""Night Sky"" (New York, NY - Private Show)",,,The Bones of What You Believe,10.12.2013,,Night Sky,Live Video (Fan),https://www.youtube.com/watch?v=jwm5IwHW_2E
 ,,"LIVE: CHVRCHES ""Lies"" (New York, NY - Private Show)",,,The Bones of What You Believe,10.12.2013,,Lies,Live Video (Fan),https://www.youtube.com/watch?v=05reMNdUiW8
 ,,"LIVE: CHVRCHES ""The Mother We Share"" (New York, NY Private Show)",,,The Bones of What You Believe,10.12.2013,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=jGtQnk2h4Qg
+,,"CHVRCHES Talk Pixar movies, music + more with B-Sides On-Air",,,The Bones of What You Believe,11.12.2013,,,Interview,https://www.youtube.com/watch?v=gVdRsV-DNvc
 p8AULRKPZ9o,"BBC Radio 1 Live Lounge, 15.12.2013",Chvrches - Stay Another Day in the Live Lounge,Top,East 17 Cover,The Bones of What You Believe,15.12.2013,,Stay another day (East 17 Cover),Live Video (Pro),https://www.youtube.com/watch?v=p8AULRKPZ9o,Yes
 ,,"Chvrches - The Mother We Share live at Edinburgh Hogmanay Street Party, 31 December 2013",,,The Bones of What You Believe,31.12.2013,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=f0bWeezZhsw
 ,,"Chvrches - The Mother We Share (Edinburgh, 31.12.2013.)",,,The Bones of What You Believe,31.12.2013,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=cMzjwTTZMTc
@@ -633,7 +636,7 @@ xLwY0ewuoRY,"T in the Park, 13.07.2014",CHVRCHES - GUN stripped electronic versi
 ,,CHVRCHES - By the Throat HD (Live in Memphis),,,The Bones of What You Believe,01.10.2014,,By the Throat,Live Video (Fan),https://www.youtube.com/watch?v=gJ9zrCq5Ryw
 ,,CHVRCHES - The Mother We Share (Minglewood Hall),,,The Bones of What You Believe,01.10.2014,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=TWrwN01VEo8
 ,,CHVRCHES - Tether - Memphis 10/1/14,,,The Bones of What You Believe,01.10.2014,,Tether,Live Video (Fan),https://www.youtube.com/watch?v=c2UUHhAMBq8
-,,CHVRCHES at Austin City Limits Festival 2014,,,The Bones of What You Believe,03.10.2014,,,Interview,https://www.youtube.com/watch?v=566cY1q6s-A
+ www.youtube.com-watch-v-566cY1q6s-A,,CHVRCHES at Austin City Limits Festival 2014,,,The Bones of What You Believe,03.10.2014,,,Interview,https://www.youtube.com/watch?v=566cY1q6s-A
 ,,By The Throat by Chrvches @ The Fillmore Miami on 10/5/14,,,The Bones of What You Believe,05.10.2014,,By the Throat,Live Video (Fan),https://www.youtube.com/watch?v=PLw8GEEnOI4
 ,,Tether by Chrvches @ The Fillmore Miami on 10/5/14,,,The Bones of What You Believe,05.10.2014,,Tether,Live Video (Fan),https://www.youtube.com/watch?v=8qi982ppYY8
 ,,Strong Hand by Chrvches @ The Fillmore Miami on 10/5/14,,,The Bones of What You Believe,05.10.2014,,Strong Hand,Live Video (Fan),https://www.youtube.com/watch?v=Ek249pRPPD0
@@ -903,7 +906,7 @@ KNHxwSp-6Og,"Empty Threat, official Music Video, 20.11.2015",CHVRCHES - Empty Th
 ,,Chvrchers - The Mother We Share - Live in Birmingham 25/11/2015 O2 Academy,,,Every Open Eye,25.11.2015,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=3mrUXpryDds
 ,,Chvrches Make Them Gold - O2 Academy Birmingham 25-11-2015,,,Every Open Eye,25.11.2015,,Make Them Gold,Live Video (Fan),https://www.youtube.com/watch?v=NNmKR_tUSj0
 ,,Chvrchers - Leave A Trace - Live in Birmingham 25/11/2015 O2 Academy,,,Every Open Eye,25.11.2015,,Leave a Trace,Live Video (Fan),https://www.youtube.com/watch?v=MkFkd-5fqck
-,,Chvrches- The Mother We Share (Live) @ The Uptown Theater Kansas City 2015,,,Every Open Eye,25.11.2015,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=gqtZYD1MZvc
+,,Chvrches- The Mother We Share (Live) @ The Uptown Theater Kansas City 2015,,,Every Open Eye,23.10.2015,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=gqtZYD1MZvc
 ,,"CHVRCHES - Playing dead (London, 27/11/2015)",,,Every Open Eye,27.11.2015,,Playing Dead,Live Video (Fan),https://www.youtube.com/watch?v=F8EOYlRWe-Y
 ,,CHVRCHES - Empty Threat - Alexandra Palace - 27th November 2015,,,Every Open Eye,27.11.2015,,Empty Threat,Live Video (Fan),https://www.youtube.com/watch?v=xyFxCJjCYR0
 ,,CHVRCHES - Make Them Gold (Live at Alexandra Palace 27/11/15),,,Every Open Eye,27.11.2015,,Make Them Gold,Live Video (Fan),https://www.youtube.com/watch?v=vPDIKwqivYo
@@ -934,7 +937,7 @@ KNHxwSp-6Og,"Empty Threat, official Music Video, 20.11.2015",CHVRCHES - Empty Th
 ,,"CHVRCHES: ""The Mother We Share"" (Live @ Enmore Theatre, Sydney, 04/02/16)",,,Every Open Eye,04.02.2016,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=yrKyUZXOLus
 ,,Chvrches - Empty Threat. Laneway side show. Enmore Theatre,,,Every Open Eye,04.02.2016,,Empty Threat,Live Video (Fan),https://www.youtube.com/watch?v=e36SRF-2Qsc
 ,,CHVRCHES - Adelaide Laneway 2016,,,Every Open Eye,05.02.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=e9fMVprQw-c
-,,"Chvrches - Night Sky (Live at Laneway Festival 2014, Brisbane)",,,Every Open Eye,06.02.2016,,Night Sky,Live Video (Fan),https://www.youtube.com/watch?v=EW1omkYvnfk
+,,"Chvrches - Night Sky (Live at Laneway Festival 2014, Brisbane)",,,Every Open Eye,31.01.2014,,Night Sky,Live Video (Fan),https://www.youtube.com/watch?v=EW1omkYvnfk
 ,,CHVRCHES - Keep You On My Side (Laneway Festival Sydney 2016),,,Every Open Eye,07.02.2016,,Keep You on My Side,Live Video (Fan),https://www.youtube.com/watch?v=xxfW4W7QIaA
 ,,"Chvrches - ""We Sink"" - Laneway 2016, Sydney",,,Every Open Eye,07.02.2016,,We Sink,Live Video (Fan),https://www.youtube.com/watch?v=bkgj7f4tAVY
 ,,"Chvrches - Leave A Trace @ The Forum, Melbourne - Tuesday 9/2/2016",,,Every Open Eye,09.02.2016,,Leave a Trace,Live Video (Fan),https://www.youtube.com/watch?v=zFvrLwzygMg
@@ -991,6 +994,7 @@ XYK4QHeLBBk,"Live at SXSW, 18.03.2016","CHVRCHES - 'Never Ending Circles"" (Live
 ,,Chvrches SXSW 2016 Radio Day Stage Show.,,,Every Open Eye,18.03.2016,Early,,Live Video (Fan),https://www.youtube.com/watch?v=6yaY8-nNFhw
 ,,Albert Sessions | Chvrches lead a workshop for aspiring young musicians,,,Every Open Eye,31.03.2016,,,Interview,https://www.youtube.com/watch?v=sIpVnaxTAgM
 ,,Chvrches - High Enough To Carry You Over (HD) - Royal Albert Hall - 31.03.16,,,Every Open Eye,31.03.2016,,High Enough to Carry You Over,Live Video (Fan),https://www.youtube.com/watch?v=VQeKPTIDffc
+,,Chvrches - Leave A Trace (HD) - Royal Albert Hall - 31.03.16,,,Every Open Eye,31.03.2016,,Leave a Trace,Live Video (Fan),https://www.youtube.com/watch?v=LnobtbezFGY
 ,,Chvrches - The Mother We Share @ the Hydro in April 2016,,,Every Open Eye,02.04.2016,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=Yua-Mq-CRWI
 ,,CHVRCHES - Tether - Glasgow - 2/04/16,,,Every Open Eye,02.04.2016,,Tether,Live Video (Fan),https://www.youtube.com/watch?v=Bg7TpAsrTag
 ,,CHVRCHES - Science/Visions - Glasgow - 2/04/16,,,Every Open Eye,02.04.2016,,Science/Visions,Live Video (Fan),https://www.youtube.com/watch?v=DqZMgPqaFoE
@@ -1014,7 +1018,7 @@ R_lHoaiCRqU,"The Observatory, Santa Ana, 14.04.2016","Chvrches - ""Bury It"" @ T
 ,,"Chvrches - ""Clearest Blue"" @ The Observatory, Santa Ana - April 14, 2016",,,Every Open Eye,14.04.2016,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=0adN9olSr00
 ,,CHVRCHES w/ Hilary of FM94/9,,,Every Open Eye,16.04.2016,,,Interview,https://www.youtube.com/watch?v=m1eY8hn27GE
 ,,CHVRCHES Interview,,,Every Open Eye,16.04.2016,,,Interview,https://www.youtube.com/watch?v=cpqQPtNZViQ
-,,Nicole Alvarez Interviews CHVRCHES at the KROQ Coachella House,,,Every Open Eye,16.04.2016,,,Interview,https://www.youtube.com/watch?v=5vx-IX4uRqY
+www.youtube.com-watch-v-5vx-IX4uRqY,,Nicole Alvarez Interviews CHVRCHES at the KROQ Coachella House,,,Every Open Eye,16.04.2016,,,Interview,https://www.youtube.com/watch?v=5vx-IX4uRqY,,extracted
 ,,Chvrches - Lauren talkin mad shit about Ted Cruz xD 4/5,,,Every Open Eye,18.04.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=awPHTjlaTG4
 ,,"Chvrches - Afterglow, and The Mother We Share. 5/5",,,Every Open Eye,18.04.2016,,"The Mother We Share, Afterglow",Live Video (Fan),https://www.youtube.com/watch?v=kTA8MJXK2uI
 ,,"Chvrches - Never Ending Circles, We Sink, Keep You On My Side. 1/5",,,Every Open Eye,18.04.2016,,"Never Ending Circles, We Sink, Keep You on My Side",Live Video (Fan),https://www.youtube.com/watch?v=lY4vPcvnQ0o
@@ -1053,7 +1057,7 @@ fB4gjiMVKFI,"Warning Call, Lyric Video, 18.05.2016",CHVRCHES - Warning Call (Lyr
 ,,CHVRCHES - Clearest Blue,,,Every Open Eye,03.06.2016,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=NGIjpFr9Z-g
 ,,CHVRCHES at the House of Blues in Boston (6/4/16),,,Every Open Eye,04.06.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=HVzaN0unq3A
 ,,"CHVRCHES - Leave a Trace Boston - House of Blues June 4, 2016",,,Every Open Eye,04.06.2016,,Leave a Trace,Live Video (Fan),https://www.youtube.com/watch?v=bzzE7vA5xYw
-,,"CHVRCHES Never Ending Circles House of Blues Boston June 4, 2016",,,Every Open Eye,04.06.2016,,Never Ending Circles,Live Video (Fan),https://www.youtube.com/watch?v=Up3XmRMhuTw
+,,"CHVRCHES Never Ending Circles House of Blues Boston June 4, 2016",,,Every Open Eye,04.06.2016,,Never Ending Circles,Live Video (Fan)
 ,,CHVRCHES (6/7/16),,,Every Open Eye,07.06.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=DrIB63UrcgM
 ,,"The Mother We Share - Chvrches - Canandaigua, NY - 2016",,,Every Open Eye,08.06.2016,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=knf3NNJVh4U
 ,,"Leave A Trace - Chvrches - Canandaigua, NY - 2016",,,Every Open Eye,08.06.2016,,Leave a Trace,Live Video (Fan),https://www.youtube.com/watch?v=ohwiaDOc97s
@@ -1077,11 +1081,11 @@ fB4gjiMVKFI,"Warning Call, Lyric Video, 18.05.2016",CHVRCHES - Warning Call (Lyr
 ,,Keep You On My Side (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Keep You on My Side,Live Video (Pro),https://www.youtube.com/watch?v=KY3aaDKJ2Vc
 ,,Make Them Gold (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Make Them Gold,Live Video (Pro),https://www.youtube.com/watch?v=GKAT9j1elws
 ,,Gun (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Gun,Live Video (Pro),https://www.youtube.com/watch?v=VPeYm7yMnII
-,,Bury It (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Bury It,Live Video (Pro),https://www.youtube.com/watch?v=AtD0EBoIX1s&list=PL35JdND4qE9Qsb_VHAMxPBSqlO7yPptEn&index=6
-,,High Enough to Carry You Over (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,High Enough to Carry You Over,Live Video (Pro),https://www.youtube.com/watch?v=guW-MjCha_I&list=PL35JdND4qE9Qsb_VHAMxPBSqlO7yPptEn&index=7
-,,Empty Threat (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Empty Threat,Live Video (Pro),https://www.youtube.com/watch?v=lQZ34WKBGjI&list=PL35JdND4qE9Qsb_VHAMxPBSqlO7yPptEn&index=8
-,,Recover (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Recover,Live Video (Pro),https://www.youtube.com/watch?v=RXdZY74VfJc&list=PL35JdND4qE9Qsb_VHAMxPBSqlO7yPptEn&index=9
-,,Clearest Blue (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Clearest Blue,Live Video (Pro),https://www.youtube.com/watch?v=lOHOztdEUG4&list=PL35JdND4qE9Qsb_VHAMxPBSqlO7yPptEn&index=10
+,,Bury It (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Bury It,Live Video (Pro),https://www.youtube.com/watch?v=AtD0EBoIX1s
+,,High Enough to Carry You Over (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,High Enough to Carry You Over,Live Video (Pro),https://www.youtube.com/watch?v=guW-MjCha_I
+,,Empty Threat (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Empty Threat,Live Video (Pro),https://www.youtube.com/watch?v=lQZ34WKBGjI
+,,Recover (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Recover,Live Video (Pro),https://www.youtube.com/watch?v=RXdZY74VfJc
+,,Clearest Blue (Glastonbury 2016) CHVRCHES Live,,,Every Open Eye,25.06.2016,,Clearest Blue,Live Video (Pro),https://www.youtube.com/watch?v=lOHOztdEUG4
 ,,Roskilde Festival 2016 - CHVRCHES live,,,Every Open Eye,30.06.2016,,Leave a Trace,Live Video (Fan),https://www.youtube.com/watch?v=TFTDFQYiHN4
 ,,CHVRCHES Live (Opener Festival 2016) Full Show - Part 2,,,Every Open Eye,02.07.2016,,"Bury It, Recover, Leave a Trace, Clearest Blue, The Mother We Share",Live Video (Pro),https://www.youtube.com/watch?v=U6shvVgUbSY
 ,,Gun (Opener Festival 2016) CHVRCHES Live,,,Every Open Eye,02.07.2016,,Gun,Live Video (Pro),https://www.youtube.com/watch?v=VW_SyNCAB-Y
@@ -1089,10 +1093,10 @@ fB4gjiMVKFI,"Warning Call, Lyric Video, 18.05.2016",CHVRCHES - Warning Call (Lyr
 ,,CHVRCHES Keep You On My Side Opener Festival 2016,,,Every Open Eye,02.07.2016,,Keep You on My Side,Live Video (Pro),https://www.youtube.com/watch?v=7NWP98WTmtQ
 ,,CHVRCHES We Sink Opener Festival 2016,,,Every Open Eye,02.07.2016,,We Sink,Live Video (Pro),https://www.youtube.com/watch?v=FPCUzYu7KC0
 ,,CHVRCHES Make Them Gold Opener Festival 2016,,,Every Open Eye,02.07.2016,,Make Them Gold,Live Video (Pro),https://www.youtube.com/watch?v=VQjj1b9qOV8
-,,CHVRCHES Empty Threat Opener Festival 2016,,,Every Open Eye,02.07.2016,,Empty Threat,Live Video (Pro),https://www.youtube.com/watch?v=vCzgG496IM0&list=PL35JdND4qE9RWUn68JYiWVUH0LgCtzUBZ&index=6
-,,CHVRCHES High Enough to Carry You Over Opener Festival 2016,,,Every Open Eye,02.07.2016,,High Enough to Carry You Over,Live Video (Pro),https://www.youtube.com/watch?v=sIvHDqpqwk8&list=PL35JdND4qE9RWUn68JYiWVUH0LgCtzUBZ&index=7
-,,CHVRCHES Science Visions Opener Festival 2016,,,Every Open Eye,02.07.2016,,Science/Visions,Live Video (Pro),https://www.youtube.com/watch?v=f_BkpEMQwZA&list=PL35JdND4qE9RWUn68JYiWVUH0LgCtzUBZ&index=8
-,,CHVRCHES Recover Opener Festival 2016,,,Every Open Eye,02.07.2016,,Recover,Live Video (Pro),https://www.youtube.com/watch?v=Ptj-W7z0Exw&list=PL35JdND4qE9RWUn68JYiWVUH0LgCtzUBZ&index=9
+,,CHVRCHES Empty Threat Opener Festival 2016,,,Every Open Eye,02.07.2016,,Empty Threat,Live Video (Pro),https://www.youtube.com/watch?v=vCzgG496IM0
+,,CHVRCHES High Enough to Carry You Over Opener Festival 2016,,,Every Open Eye,02.07.2016,,High Enough to Carry You Over,Live Video (Pro),https://www.youtube.com/watch?v=sIvHDqpqwk8
+,,CHVRCHES Science Visions Opener Festival 2016,,,Every Open Eye,02.07.2016,,Science/Visions,Live Video (Pro),https://www.youtube.com/watch?v=f_BkpEMQwZA
+,,CHVRCHES Recover Opener Festival 2016,,,Every Open Eye,02.07.2016,,Recover,Live Video (Pro),https://www.youtube.com/watch?v=Ptj-W7z0Exw
 ,,Chvrches #1 - Keep you on my side @ Rock for people 2016,,,Every Open Eye,05.07.2016,,Keep You on My Side,Live Video (Fan),https://www.youtube.com/watch?v=2SZehLL0CMc
 ,,Chvrches rock for people 2016,,,Every Open Eye,05.07.2016,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=nnZMjeXAdt4
 ,,Chvrches #2 - recover @ Rock for people 2016,,,Every Open Eye,05.07.2016,,Recover,Live Video (Fan),https://www.youtube.com/watch?v=Kc_SGrq0o8A
@@ -1226,6 +1230,9 @@ bMW0EBKfdPk,,"CHVRCHES ""Never Ending Circles"" Live at Terminal 5",Top,,Every O
 ,"Greg Barris ""Heart of Darkness""","Lauren Mayberry of Chvrches (Live)- Boys of Summer- Baby's All Right, Brooklyn",,,Every Open Eye,03.11.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=HAvckk-BSi4
 ,"Greg Barris ""Heart of Darkness""",Lauren Mayberry of Chvrches Cover of Brick by Ben Folds Five - Rare video - 4K HD FULL SONG NYC,,,Every Open Eye,03.11.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=_sfHOgwNNac
 X715EumTGo8,Pitchfork,Chvrches - “Bury It” (Live),Top,,Every Open Eye,07.11.2016,,Bury It,Live Video (Pro),https://www.youtube.com/watch?v=X715EumTGo8,Yes
+,,Lauren Mayberry (Chvrches) (HQ)- covering Case Of You by Joni Mitchell,,,Every Open Eye,12.12.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=Q8FQFQ3qIeM
+,,Lauren Mayberry (Chvrches) (HQ)- Covering Firework- Katy Perry,,,Every Open Eye,12.12.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=R_PfxqYLKJA
+,,"Lorde, Carly Rae Jepsen, Charli XCX, Lauren Mayberry, Bleachers- Go Your Own Way- 12/12/16",,,Every Open Eye,12.12.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=ZJ47n3P8-RU&t=2s
 ,,Time After Time - Lauren Mayberry / CHVRCHES - cover Cindy Lauper - Full Song - Dec 13 2017,,,Love Is Dead,13.12.2017,,Time After Time,Live Video (Fan),https://www.youtube.com/watch?v=b8R9gzt0F3M
 LHUKKrcXfJs,"Get Out, official Music Video, 31.01.2018",CHVRCHES - Get Out,Top,,Love Is Dead,31.01.2018,,Get Out,Music Video,https://www.youtube.com/watch?v=LHUKKrcXfJs,Yes
 K4I0YPqMIjw,"CBC Studio Q, 10.02.2018",Drawing with: CHVRCHES,Top,,Love Is Dead,10.02.2018,,,Interview,https://www.youtube.com/watch?v=K4I0YPqMIjw,Yes
@@ -1236,10 +1243,10 @@ AnAb6MkcBuI,"KROQ, 17.02.2018",KROQ's Kevin Weatherly Calls CHVRCHES,Top,,Love I
 ,,Chvrches on Their New Album and Making an American Record | The Watch (Ep. 252),,,Love Is Dead,07.03.2018,,,Interview,https://www.youtube.com/watch?v=ukU0Lb4v5a0
 7U5hTu4poJs,"Honda Stage @ Power Station, 07.03.2018",CHVRCHES - The Mother We Share (Live on the Honda Stage at Power Station),Top,,Love Is Dead,07.03.2018,,"The Mother We Share (Kowton’s Feeling Fragile remix), The Mother We Share",Live Video (Pro),https://www.youtube.com/watch?v=7U5hTu4poJs,Yes
 6qQdemKZngI,"Honda Stage @ Power Station, 07.03.2018",CHVRCHES - Never Say Die (Live on the Honda Stage at Power Station),Top,,Love Is Dead,07.03.2018,,Never Say Die,Live Video (Pro),https://www.youtube.com/watch?v=6qQdemKZngI,Yes
-EvH6XcFGPAE,"Honda Stage @ Power Station, 07.03.2018",CHVRCHES - XO (Live on the Honda Stage at Power Station),Top,,Love Is Dead,07.03.2018,,XO (Beyoncé Cover),Live Video (Fan),https://www.youtube.com/watch?v=EvH6XcFGPAE,Yes
+EvH6XcFGPAE,"Honda Stage @ Power Station, 07.03.2018",CHVRCHES - XO (Live on the Honda Stage at Power Station),Top,,Love Is Dead,07.03.2018,,XO (Beyoncé Cover),Live Video (Pro),https://www.youtube.com/watch?v=EvH6XcFGPAE,Yes
 d6V4OzeoT1M,"Honda Stage @ Power Station, 07.03.2018",CHVRCHES - Get Out (Live on the Honda Stage at Power Station),Top,,Love Is Dead,07.03.2018,,Get Out,Live Video (Pro),https://www.youtube.com/watch?v=d6V4OzeoT1M,Yes
-wEdRhmBx8IU,"BBC Radio 1 Live Lounge, 15.03.2018",CHVRCHES - Somebody Else (The 1975 cover) in the Live Lounge,Top,,Love Is Dead,15.03.2018,,,Live Video (Pro),https://www.youtube.com/watch?v=wEdRhmBx8IU,Yes
-TSJ_RVhOZ8c,"BBC Radio 1 Live Lounge, 15.03.2018",CHVRCHES - Get Out in the Live Lounge,Top,,Love Is Dead,15.03.2018,,Get Out,Live Video (Pro),https://www.youtube.com/watch?v=TSJ_RVhOZ8c,Yes
+wEdRhmBx8IU,"BBC Radio 1 Live Lounge, 15.03.2018",CHVRCHES - Somebody Else (The 1975 cover) in the Live Lounge,Top,,Love Is Dead,15.03.2018,,,Live Video (Pro),https://www.youtube.com/watch?v=TSJ_RVhOZ8c,Yes
+TSJ_RVhOZ8c,"BBC Radio 1 Live Lounge, 15.03.2018",CHVRCHES - Get Out in the Live Lounge,Top,,Love Is Dead,15.03.2018,,Get Out,Live Video (Pro),,Yes
 e1YqueG2gtQ,"Miracle, Offical Music Video, 25.04.2018",CHVRCHES - Miracle (Official Video),Top,,Love Is Dead,25.04.2018,,Miracle,Music Video,https://www.youtube.com/watch?v=e1YqueG2gtQ,Yes
 k8MKZOF5iBA,BBC Music,Chvrches - Get Out (on Sounds Like Friday Night),Top,,Love Is Dead,26.04.2018,,Get Out,Live Video (Pro),https://www.youtube.com/watch?v=k8MKZOF5iBA,Yes
 ,,CHVRCHES Took a Selfie with Nile Rodgers While He Played Onstage,,,Love Is Dead,15.05.2018,,,Interview,https://www.youtube.com/watch?v=AVmnPFvQ6c8
@@ -1248,7 +1255,7 @@ z6jRryn5cgI,"Toronto, 19.05.2018",Chvrches - “just a thing” & Graffiti (LIVE
 qdUEiR4OOI4,"Toronto, 19.05.2018",Chvrches - The Mother We Share,Top,,Love Is Dead,19.05.2018,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=qdUEiR4OOI4,Yes
 ,,CHVRCHES flashback to their teen years with these classic records | The LP Spree,,,Love Is Dead,19.05.2018,,,Interview,https://www.youtube.com/watch?v=uflp3eBYAn0
 ,,CHVRCHES | Today in Music | Amazon Music,,,Love Is Dead,21.05.2018,,,Interview,https://www.youtube.com/watch?v=VuqMy4nGw8Y
-,,"If 'Love Is Dead,' How Would CHVRCHES Save It?",,,Love Is Dead,21.05.2018,,,Interview,https://www.youtube.com/watch?v=4nDlrS9_u80
+www.youtube.com-watch-v-4nDlrS9_u80,,"If 'Love Is Dead,' How Would CHVRCHES Save It?",,,Love Is Dead,21.05.2018,,,Interview,https://www.youtube.com/watch?v=4nDlrS9_u80,,extracted
 ,,CHVRCHES Gives An Exclusive 'Love Is Dead' Album Release Message!,,,Love Is Dead,22.05.2018,,,Teaser,https://www.youtube.com/watch?v=BugQp9wLM7M
 ,,CHVRCHES Talk Getting Feedback From Their Fans On New Music | iHeartRadio Album Release Party,,,Love Is Dead,22.05.2018,,,Interview,https://www.youtube.com/watch?v=op9FJ_XMCEU
 ,,CHVRCHES Working With The National On 'Love Is Dead' | iHeartRadio Album Release Party,,,Love Is Dead,22.05.2018,,,Interview,https://www.youtube.com/watch?v=ttTyafmU-3E
@@ -1276,6 +1283,7 @@ wTBauTx9pBY,"The Hippodrome, Kingston, 29.05.2018","Chvrches - God's Plan (HD) -
 ,,Lauren Mayberry (CHVRCHES) | My most useless talent,,,Love Is Dead,10.06.2018,,,Interview,https://www.youtube.com/watch?v=Nn1eF8kH6YA
 ,,Conversations with Chvrches,,,Love Is Dead,16.06.2018,,,Interview,https://www.youtube.com/watch?v=lsDIk135FtY
 ,,Chvrches Backstage Interview at Radio 104.5 11th Birthday Celebration,,,Love Is Dead,17.06.2018,,,Interview,https://www.youtube.com/watch?v=jdiZ7e4UBms
+,,Chvrches - The Mother we Share - Southside 2018,,,Love Is Dead,23.06.2018,,,Live Video (Fan),https://www.youtube.com/watch?v=PVc7XywH1ho
 ,,CHVRCHES - rozhovor |AERODROME FESTIVAL 2018|,,,Love Is Dead,29.06.2018,,,Interview,https://www.youtube.com/watch?v=mmmJk3ZfD1g
 ,,Open'er Festival 2018: Chvrches on touring and the secret to festival survival,,,Love Is Dead,04.07.2018,,,Interview,https://www.youtube.com/watch?v=dzibx6LB8o8
 ,,MTV News | Chvrches o feminizmie i premierze nowego albumu,,,Love Is Dead,04.07.2018,,,Interview,https://www.youtube.com/watch?v=c7Ti1AhAuBU
@@ -1308,9 +1316,9 @@ wZ9xDmcxk,"Lollapalooza, Chicago, 02.08.2018",Chvrches My Enemy Live with Matt B
 4w9Zs_OfEgs,,CHVRCHES - Out Of My Head ft. WEDNESDAY CAMPANELLA,Top,,Love Is Dead,03.08.2018,,Out of My Head,Music Video,https://www.youtube.com/watch?v=4w9Zs_OfEgs,Yes
 ,,"Chvrches - ""Lies"" - Live in Omaha, NE",,,Love Is Dead,04.08.2018,,Lies,Live Video (Fan),https://www.youtube.com/watch?v=cOJbZeB7yGM
 ,,"Chvrches - ""Bury It"" - Live in Omaha, NE",,,Love Is Dead,04.08.2018,,Bury It,Live Video (Fan),https://www.youtube.com/watch?v=kqnfjByvprQ
-,,Interview 1 Chvrches 933 Garage,,,Love Is Dead,07.08.2018,,,Interview,https://www.youtube.com/watch?v=wfUcfsPAlzI
-,,Interview 2 Chvrches 933 Garage,,,Love Is Dead,07.08.2018,,,Interview,https://www.youtube.com/watch?v=w7G5NSk4_Hs
-,,Interview 3 Chvrches 933 Garage,,,Love Is Dead,07.08.2018,,,Interview,https://www.youtube.com/watch?v=sfI3CgBErXQ
+,,Interview 1 Chvrches 933 Garage,,Chvrches stop by the KTCL Garage,Love Is Dead,07.08.2018,Early,,Interview,https://www.youtube.com/watch?v=wfUcfsPAlzI
+,,Interview 2 Chvrches 933 Garage,,Chvrches stop by the KTCL Garage,Love Is Dead,07.08.2018,Early,,Interview,https://www.youtube.com/watch?v=w7G5NSk4_Hs
+,,Interview 3 Chvrches 933 Garage,,Chvrches stop by the KTCL Garage,Love Is Dead,07.08.2018,Early,,Interview,https://www.youtube.com/watch?v=sfI3CgBErXQ
 auAYOLCiUBI,Ogden Twilight; 09.08.2018,Chvrches - Bury It / Ogden Twilight 8/9/2018,Top,,Love Is Dead,09.08.2018,,Bury It,Live Video (Fan),https://www.youtube.com/watch?v=auAYOLCiUBI,Yes
 ,,03 Outside Lands 2018 - Chvrches - Lauren (Live Clip),,,Love Is Dead,11.08.2018,,,Live Video (Fan),https://www.youtube.com/watch?v=mMne4V5Si98
 ,,"Comedy- Bang Bang - EP.#.563 CHVRCHES, Edi Patterson, Holly Prazoff",,,Love Is Dead,13.08.2018,,,Interview,https://www.youtube.com/watch?v=bs59uTD4V5A
@@ -1325,6 +1333,10 @@ byddJlfGvH4,"X91XX-Sessions, San Diego, 20.09.2018",CHVRCHES – Graffiti (LIVE)
 ,,"Chvrches 'Really Gone' - San Diego, CA - 20 September 2018",,1st time Really Gone live,Love Is Dead,20.09.2018,Late,Really Gone,Live Video (Fan),https://www.youtube.com/watch?v=ihbOTu4wMm8
 ,,CHVRCHES Live in San Diego 2018,,,Love Is Dead,20.09.2018,Late,,Live Video (Fan),https://www.youtube.com/watch?v=vqr6Rd2TXYc
 ,,CHVRCHES Live - Life is Beautiful 2018 - Full Show,,,Love Is Dead,21.09.2018,,,Live Video (Pro),https://www.youtube.com/watch?v=z8ivkj_hCqI
+,,10 - City of Trees 2018 - Chvrches - Clearest Blue (Live Clip),,,Love Is Dead,22.09.2018,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=6yBFg78lAfI
+,,07 - City of Trees 2018 - Chvrches - Miracle (Live Clip),,,Love Is Dead,22.09.2018,,Miracle,Live Video (Fan),https://www.youtube.com/watch?v=o6Bc-S64LMA
+,,14 - City of Trees 2018 - Chvrches - Never Say Die (Live Clip),,,Love Is Dead,22.09.2018,,Never Say Die,Live Video (Fan),https://www.youtube.com/watch?v=UucnxnBl8VI
+,,12 - City of Trees 2018 - Chvrches - The Mother We Share (Live Clip),,,Love Is Dead,22.09.2018,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=gvx53m6IgxM
 ghzaf4p6CFU,"Greek Theatre, Los Angeles, 23.09.2018","CHVRCHES | We Sink | live Greek Theatre Los Angeles, September 23, 2018",Top,,Love Is Dead,23.09.2018,,We Sink,Live Video (Fan),https://www.youtube.com/watch?v=ghzaf4p6CFU,Yes
 ZW6jqWYMpIg,"Greek Theatre, Los Angeles, 23.09.2018","CHVRCHES | Graffiti | live Greek Theatre Los Angeles, September 23, 2018",Top,,Love Is Dead,23.09.2018,,Graffiti,Live Video (Fan),https://www.youtube.com/watch?v=ZW6jqWYMpIg,Yes
 CVu0RTLnOIM,"Greek Theatre, Los Angeles, 23.09.2018","CHVRCHES | Science/Visions | live Greek Theatre Los Angeles, September 23, 2018",Top,,Love Is Dead,23.09.2018,,Science/Visions,Live Video (Fan),https://www.youtube.com/watch?v=CVu0RTLnOIM,Yes
@@ -1410,6 +1422,7 @@ NRNfqY-qpsQ,"Live @ Docks, Hamburg, 09.11.2018","CHVRCHES - The Mother We Share,
 Bne8dgvQQWc,"Gasometer, Vienna, 10.11.2018","CHVRCHES - Really gone (Vienna, 10/11/2018)",Top,,Love Is Dead,10.11.2018,,Really Gone,Live Video (Fan),https://www.youtube.com/watch?v=Bne8dgvQQWc,Yes
 tGZmUydcvbg,"Gasometer, Vienna, 10.11.2018",CHVRCHES - Recover (LIVE) Vienna Gasometer 2018-11-10,Top,,Love Is Dead,10.11.2018,,Recover,Live Video (Fan),https://www.youtube.com/watch?v=tGZmUydcvbg,Yes
 HI7SahqL-2o,,Chvrches - Clearest Blue (Stuttgart 11.11.2018),Top,,Love Is Dead,11.11.2018,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=HI7SahqL-2o,Yes
+,,"Go Backstage : CHVRCHES talk about the me too movement, journalism, first ave and more",,,Love Is Dead,13.11.2018,,,Interview,https://www.youtube.com/watch?v=pToxNGXxTn4
 IRdGNYtOHTw,,CHVRCHES 14-11-2018 Live in Milano (Italy) 60 fps - Miracle,Top,,Love Is Dead,14.11.2018,,Miracle,Live Video (Fan),https://www.youtube.com/watch?v=IRdGNYtOHTw,Yes
 ,,Chvrches - Deliverance - Live at Den Atelier - Luxembourg - 16/11/2018,,,Love Is Dead,16.11.2018,,Deliverance,Live Video (Fan),https://www.youtube.com/watch?v=-cf8WQmGGOY
 ,,Chvrches - Science and Visions - Live at Den Atelier - Luxembourg - 16/11/2018,,,Love Is Dead,16.11.2018,,Science/Visions,Live Video (Fan),https://www.youtube.com/watch?v=kx02_ZiCgOM
@@ -1514,6 +1527,14 @@ GpOVS6QTWlQ,"Corona Capital, 18.11.2018",CHVRCHES Live 2018 Full Concert HD,Top,
 ,,CHVRCHES - Graffiti (Live 04/18/19 @ Pappy & Harriet's),,,Love Is Dead,18.04.2019,,Graffiti,Live Video (Fan),https://www.youtube.com/watch?v=7Leh49DNqUg
 ,,Chvrches - Pappy and Harriet’s,,,Love Is Dead,18.04.2019,,Get Out,Live Video (Fan),https://www.youtube.com/watch?v=UEsLrZcsdjI
 ,,Chvrches Live in Berkeley - Banter Collection,,,Love Is Dead,19.04.2019,,,Live Video (Fan),https://www.youtube.com/watch?v=gypiCb4QqmQ
+,,"14 – Chvrches – The Mother We Share (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=P2qknwUaqFA
+,,"13.0 – Chvrches – Clearest Blue (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=tIzm4nt3ShE
+,,"09 – Chvrches – Deliverance (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Deliverance,Live Video (Fan),https://www.youtube.com/watch?v=tHVdSHIae6I
+,,"03 – Chvrches – We Sink (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,We Sink,Live Video (Fan),https://www.youtube.com/watch?v=4wOHAjuDVMQ
+,,"08 – Chvrches – Under The Tide (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Under the Tide,Live Video (Fan),https://www.youtube.com/watch?v=wGG6vyrbTOA
+,,"01 – Chvrches – Get Out (Live) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Get Out,Live Video (Fan),https://www.youtube.com/watch?v=-riEqr_miec
+,,"15.0 – Chvrches – Never Say Die (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Never Say Die,Live Video (Fan),https://www.youtube.com/watch?v=Yzzq3-GwzDQ
+,,"11 – Chvrches – Recover (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Recover,Live Video (Fan),https://www.youtube.com/watch?v=b5GtheXpj7A
 ,,CHVRCHES live at Coachella 2019-04-21,,,Love Is Dead,21.04.2019,,,Live Video (Fan),https://www.youtube.com/watch?v=8RhpaSy-Ix8
 ,,"Chvrches live “The Mother We Share” @ Coachella Mojave Tent April 21, 2019",,,Love Is Dead,21.04.2019,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=KjWDAj4f-eA
 ,,"Chvrches - Bury It Live - Phoenix, AZ 4/22/2019",,,Love Is Dead,22.04.2019,,Bury It,Live Video (Fan),https://www.youtube.com/watch?v=KX26nr5AAwk
@@ -1624,12 +1645,17 @@ GpOVS6QTWlQ,"Corona Capital, 18.11.2018",CHVRCHES Live 2018 Full Concert HD,Top,
 ,,CHVRCHES - Forever (Lyric Video),,,Love Is Dead,23.04.2020,,Forever,Lyric Video,https://www.youtube.com/watch?v=RJdOYscmlyo
 ,,CHVRCHES - Forever (Lyric Video - Spanish),,,Love Is Dead,23.04.2020,,Forever,Lyric Video,https://www.youtube.com/watch?v=K_oiJaGpzuk
 ,,CHVRCHES - Forever (Lyric Video - Portuguese),,,Love Is Dead,23.04.2020,,Forever,Lyric Video,https://www.youtube.com/watch?v=EoXjDGRq0OU
+,,CHVRCHES - House Party - Full Interview + Songs,,,Love Is Dead,16.05.2020,,"Forever, Death Stranding",Live Video (Pro),https://www.youtube.com/watch?v=saj5gMr-shM
+,,CHVRCHES - Acoustic Session Live Stream - Alfa91.3FM - 2 Songs,,,Love Is Dead,21.05.2020,,"Forever, Death Stranding",Live Video (Pro),https://www.youtube.com/watch?v=eQtNiZlg7FU&t=1s
+,,"CHVRCHES - Forever (Live in São Paulo, Brazil) [March 11, 2023] | Official Clip",,,Screen Violence,11.03.2021,,Forever,Live Video (Pro),https://www.youtube.com/watch?v=j5YcG7ebkUI
+,,"CHVRCHES - The Mother We Share (Live in São Paulo, Brazil) [March 11, 2023] | Official Clip",,,Screen Violence,11.03.2021,,The Mother We Share,Live Video (Pro),https://www.youtube.com/watch?v=aD72EQ2oGKo
+,,CHVRCHES - Brazil Tour 2023 | Montage Clip,,,Screen Violence,11.03.2021,,,BTS,https://www.youtube.com/watch?v=-s9WljQy8XU
 ,,CHVRCHES - He Said She Said,,,Screen Violence,22.04.2021,,He Said She Said,Music Video,https://www.youtube.com/watch?v=fyyiJc0Wk2M
 ,,"CHVRCHES, Robert Smith - How Not To Drown (Official Video)",,,Screen Violence,03.06.2021,,How Not to Drown,Music Video,https://www.youtube.com/watch?v=7U_LhzgwJ4U
 ,,CreativeDisc Exclusive Interview With Iain Cook of CHVRCHES: Siapkan Kejutan di Album Baru,,,Screen Violence,10.06.2021,,,Interview,https://www.youtube.com/watch?v=IhF5tLONLPk
 ,,HOW NOT TO DROWN PRE-PARTY,,,Screen Violence,10.06.2021,,,Interview,https://www.youtube.com/watch?v=0XoMu7Bz7YE
 ,,Chvrches Make a Phone Call to Robert Smith (The Cure) | 2021 Chvrches YT 🇺🇸,,,Screen Violence,10.06.2021,,,Interview,https://www.youtube.com/watch?v=lu_0Jhr_vC4
-,,Robert Smith (The Cure) + Chvrches Interview | 2021 'New Arrivals' ALT 92.3 🇺🇸,,,Screen Violence,10.06.2021,,,Interview,https://www.youtube.com/watch?v=_ziKLB2-ik8
+www.youtube.com-watch-v-_ziKLB2-ik8,,Robert Smith (The Cure) + Chvrches Interview | 2021 'New Arrivals' ALT 92.3 🇺🇸,,,Screen Violence,10.06.2021,,,Interview,https://www.youtube.com/watch?v=_ziKLB2-ik8,,extracted
 ,,CHVRCHES Forever / He Said She Said - 2 Songs - Acoustic Session,,Virtual ALT 104.5 Summer Block Party,Screen Violence,10.06.2021,,"Forever, He Said She Said",Live Video (Pro),https://www.youtube.com/watch?v=uvKuACnRF60
 ,,CHVRCHES - Good Girls (Official Video),,,Screen Violence,15.07.2021,,Good Girls,Music Video,https://www.youtube.com/watch?v=du4kNAyjVCg
 ,Mexiko ,"Lauren Mayberry de CHVRCHES | ¿Cómo es trabajar con Robert Smith, Silvana Estrada y Screen Violence?",,,Screen Violence,24.07.2021,,,Interview,https://www.youtube.com/watch?v=GBmvJ5ynYbo
@@ -1670,6 +1696,10 @@ GpOVS6QTWlQ,"Corona Capital, 18.11.2018",CHVRCHES Live 2018 Full Concert HD,Top,
 ,,CHVRCHES - He Said She Said (11/14 Live in Dallas),,,Screen Violence,14.11.2021,,He Said She Said,Live Video (Fan),https://www.youtube.com/watch?v=kOiAvn5_NMQ
 ,,CHVRCHES - Violent Delights (11/14 Live in Dallas),,,Screen Violence,14.11.2021,,Violent Delights,Live Video (Fan),https://www.youtube.com/watch?v=5yQpeemok_E
 ,,CHVRCHES - The Mother We Share (11/14 Live in Dallas),,,Screen Violence,14.11.2021,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=Yn8HuNK0sgI
+,,2021 CHVRCHES in Tulsa,,,Screen Violence,15.11.2021,,,Live Video (Fan),https://www.youtube.com/watch?v=-qzrgbLuL_A
+,,"CHRVCHES - The Mother We Share - Tulsa, OK, Nov 15, 2021",,,Screen Violence,15.11.2021,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=LbCn3B9fq_s
+,,"CHRVCHES - Clearest Blue - Tulsa, OK, Nov 15, 2021",,,Screen Violence,15.11.2021,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=B0ArbAz5XG8
+,,"CHRVCHES - Never Say Die - Tulsa, OK, Nov 15, 2021",,,Screen Violence,15.11.2021,,Never Say Die,Live Video (Fan),https://www.youtube.com/watch?v=a1gi95fiZlA
 ,,California by Chvrches live at The Armory 11/17/2021,,,Screen Violence,17.11.2021,,California,Live Video (Fan),https://www.youtube.com/watch?v=gAp1GF2Dyzw
 ,,"CHVRCHES LIVE! Never Say Die Milwaukee, WI 11/18/2021",,,Screen Violence,18.11.2021,,Never Say Die,Live Video (Fan),https://www.youtube.com/watch?v=UfxSJoFfwO4
 ,,"Chvrches - Forever - Aragon Ballroom - Chicago, IL - 11-19-2021",,,Screen Violence,19.11.2021,,Forever,Live Video (Fan),https://www.youtube.com/watch?v=NmwwHIEZdMM
@@ -1728,8 +1758,10 @@ GpOVS6QTWlQ,"Corona Capital, 18.11.2018",CHVRCHES Live 2018 Full Concert HD,Top,
 ,,"CHVRCHES - Leave a Trace | Live from Philadelphia, PA December 3, 2021",,,Screen Violence,03.12.2021,,Leave a Trace,Live Video (Fan),https://www.youtube.com/watch?v=hSIGgXl81s4
 ,,"CHVRCHES - ""The Mother We Share"" Live 12/3/21 at Franklin Music Hall, Philadelphia",,,Screen Violence,03.12.2021,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=UPE3rtDx0-o
 ,,"CHVRCHES - ""Clearest Blue"" Live 12/3/21 Franklin Music Hall Philadelphia",,,Screen Violence,03.12.2021,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=jtTZ3x0NfrQ
-,,Chvrches guest program Australian TV show 'rage',,,Screen Violence,05.12.2021,,,Interview,https://www.youtube.com/watch?v=tJZc4NY2GJ0
+,,Chvrches guest program Australian TV show 'rage',,,Screen Violence,28.08.2021,,,Interview,https://www.youtube.com/watch?v=tJZc4NY2GJ0
+,,"CHVRCHES (4K) - Final Girl - Newport, KY 12-5-21",,,Screen Violence,05.12.2021,,Final Girl,Live Video (Fan),https://www.youtube.com/watch?v=-hKcAceCTNc
 ,,"CHVRCHES performing Never Say Die @ The Pageant in St. Louis, 12.06.2021",,,Screen Violence,06.12.2021,,Never Say Die,Live Video (Fan),https://www.youtube.com/watch?v=9Zgv8xM4qFM
+,,Chvrches - California - Denver 2021,,,Screen Violence,08.12.2021,,California,Live Video (Fan),https://www.youtube.com/watch?v=EM4H7hwlmJQ
 ,,CHVRCHES - Final Girl (Live),,,Screen Violence,09.12.2021,,Final Girl,Live Video (Fan),https://www.youtube.com/watch?v=VX8oOF_vIYM
 ,,CHVRCHES - Bury It (LIVE),,,Screen Violence,09.12.2021,,Bury It,Live Video (Fan),https://www.youtube.com/watch?v=xMpU3SJ484w
 ,,"Chvrches (Live) - California (Las Vegas, NV - Brooklyn Bowl Las Vegas) (12/11/2021)",,Av Kv,Screen Violence,11.12.2021,,California,Live Video (Fan),https://www.youtube.com/watch?v=4n_NfyHxtC8
@@ -1740,6 +1772,18 @@ GpOVS6QTWlQ,"Corona Capital, 18.11.2018",CHVRCHES Live 2018 Full Concert HD,Top,
 ,,"Chvrches (Live) - Night Sky (San Diego, CA - The Observatory North Park) (12/13/2021)",,Av Kv,Screen Violence,13.12.2021,,Night Sky,Live Video (Fan),https://www.youtube.com/watch?v=N8YRhGdm7vQ
 ,,"Chvrches - ""Final Girl"" - Live @ The Observatory North Park - San Diego, CA 12/14/21",,,Screen Violence,14.12.2021,,Final Girl,Live Video (Fan),https://www.youtube.com/watch?v=C_sQFzn81yw
 ,,"CHVRCHES - “Science/Visions” - Live at Bill Graham Civic Auditorium, San Francisco, CA - 2021-12-16",,,Screen Violence,16.12.2021,,Science/Visions,Live Video (Fan),https://www.youtube.com/watch?v=01ov2p1ArGs
+,,11 – CHVRCHES – Night Sky (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Night Sky,Live Video (Fan),https://www.youtube.com/watch?v=izVrXZ54IP0
+,,05 – CHVRCHES – How Not To Drown (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=Q3uqy0JMO3Y
+,,16 – CHVRCHES – The Mother We Share (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=ohZDWwcuW_Q
+,,01 – CHVRCHES – He Said She Said (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,He Said She Said,Live Video (Fan),https://www.youtube.com/watch?v=I430vFpDD6Q
+,,03 – CHVRCHES – Leave a Trace (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Leave a Trace,Live Video (Fan),https://www.youtube.com/watch?v=daYgjE9kFRQ
+,,07 – CHVRCHES – Science/Visions (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Science/Visions,Live Video (Fan),https://www.youtube.com/watch?v=jOAxHoYdR6g
+,,06 – CHVRCHES – Violent Delights (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Violent Delights,Live Video (Fan),https://www.youtube.com/watch?v=BiE7ThOaBiY
+,,04 – CHVRCHES – California (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,California,Live Video (Fan),https://www.youtube.com/watch?v=buTr7OWVIf8
+,,09 – CHVRCHES – Bury It (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Bury It,Live Video (Fan),https://www.youtube.com/watch?v=wmy7WhrTCDs
+,,08 – CHVRCHES – Good Girls (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Good Girls,Live Video (Fan),https://www.youtube.com/watch?v=SKc9w8JA_Dg
+,,10 – CHVRCHES – Miracle (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Miracle,Live Video (Fan),https://www.youtube.com/watch?v=kK3fz8wxC4c
+,,12 – CHVRCHES – Final Girl (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Final Girl,Live Video (Fan),https://www.youtube.com/watch?v=t3xBfQvCTMQ
 ,,"CHVRCHES | How Not To Drown | live Hollywood Palladium, December 17, 2021",,,Screen Violence,17.12.2021,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=4d8wk3Sre3s
 ,,"CHVRCHES | Clearest Blue | live Hollywood Palladium, December 17, 2021",,,Screen Violence,17.12.2021,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=Wg-PUmzyE4I
 ,,"CHVRCHES | Asking For A Friend | live Hollywood Palladium, December 17, 2021",,,Screen Violence,17.12.2021,,Asking for a Friend,Live Video (Fan),https://www.youtube.com/watch?v=ivnUT4qv5ow
@@ -1841,7 +1885,7 @@ GpOVS6QTWlQ,"Corona Capital, 18.11.2018",CHVRCHES Live 2018 Full Concert HD,Top,
 ,,"CHVRCHES - ""Asking for a Friend"" - Uptown Theater - Kansas City - 6/16/22",,,Screen Violence,16.06.2022,,Asking for a Friend,Live Video (Fan),https://www.youtube.com/watch?v=MxRF1ti4PiE
 ,,CHVRCHES – Miracle (Live at Bonnaroo 2022),,,Screen Violence,18.06.2022,,Miracle,Live Video (Fan),https://www.youtube.com/watch?v=nn-8sb1skbs
 ,,CHVRCHES on Playing Bonnaroo for the Third Time,,,Screen Violence,18.06.2022,,,Interview,https://www.youtube.com/watch?v=GFgCtv9cTIc
-,,CHVRCHES Live (Bonnaroo 2022) Full Show,,,Screen Violence,18.06.2022,,"He Said She Said, California, Bury It, How Not to Drown",Live Video (Pro),CHVRCHES Live (Bonnaroo 2022) Full Show
+,,CHVRCHES Live (Bonnaroo 2022) Full Show,,,Screen Violence,18.06.2022,,"He Said She Said, California, Bury It, How Not to Drown",Live Video (Pro),https://www.youtube.com/watch?v=L5eU6LuH1W8
 ,,CHVRCHES Live (Bonnaroo 2022) Full Show - Part 2,,,Screen Violence,18.06.2022,,"Miracle, Final Girl, Never Say Die, Asking for a Friend",Live Video (Pro),https://www.youtube.com/watch?v=WRevqVERetI
 ,,CHVRCHES Live - Bonnaroo 2022 - Bonus Tracks - 3 Songs,,,Screen Violence,18.06.2022,,"Forever, Leave a Trace, Recover",Live Video (Pro),https://www.youtube.com/watch?v=5KeqVAA4knE
 ,,Chvrches clearest blue Roskilde,,,Screen Violence,01.07.2022,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=6c9hICBE6bA
@@ -1909,6 +1953,8 @@ GpOVS6QTWlQ,"Corona Capital, 18.11.2018",CHVRCHES Live 2018 Full Concert HD,Top,
 ,,"Chvrches (Live) - California (Spokane, WA - Knitting Factory) (10/2/2022)",,Av Kv,Screen Violence,02.10.2022,,California,Live Video (Fan),https://www.youtube.com/watch?v=gvKSrlO48Zw&t=1s
 ,,"CHVRCHES - Forever LIVE (Spokane, WA 10/2/2022)",,,Screen Violence,02.10.2022,,Forever,Live Video (Fan),https://www.youtube.com/watch?v=ncmVwpLWBsg
 ,,"CHVRCHES - Miracle LIVE (Spokane, WA 10/2/2022)",,,Screen Violence,02.10.2022,,Miracle,Live Video (Fan),https://www.youtube.com/watch?v=RW1kF8UAVDM
+,,"Chvrches (Live) - Good Girls (Boise, ID - Knitting Factory) (10/3/2022)",,Av Kv,Screen Violence,03.10.2022,,Good Girls,Live Video (Fan),https://www.youtube.com/watch?v=Exp0Dl1PUdw&t=20s
+,,"Chvrches “How Not to Drown” live Boise, ID 10/03/22 ‪@CHVRCHES‬",,,Screen Violence,03.10.2022,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=tqT7jnWSETw
 ,,CHVRCHES LIVE @ FALLS FESTIVAL 2022,,,Screen Violence,30.12.2022,,"He Said She Said, Forever, Leave a Trace",Live Video (Fan),https://www.youtube.com/watch?v=qF_rBd1g1Z8
 ,,CHVRCHES Live at Heapsgood festival,,,Screen Violence,06.01.2023,,,Live Video (Fan),https://www.youtube.com/watch?v=LlWhs_PaSXI
 ,,"Chvrches - Leave A Trace - Live at Falls Festival, Fremantle Park 8 January 2023",,,Screen Violence,08.01.2023,,Leave a Trace,Live Video (Fan),https://www.youtube.com/watch?v=rAjBmCjHM80
@@ -1957,12 +2003,18 @@ GpOVS6QTWlQ,"Corona Capital, 18.11.2018",CHVRCHES Live 2018 Full Concert HD,Top,
 ,,He Said She Said - CHVRCHES (Live at São Paulo - 16/03/2023) [4K 60fps],,,Screen Violence,16.03.2023,,He Said She Said,Live Video (Fan),https://www.youtube.com/watch?v=5k8JfXrk-Ho&t=15s
 ,,Clearest Blue - CHVRCHES (Live at São Paulo - 16/03/2023) [4K 60fps],,,Screen Violence,16.03.2023,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=ucCgA8iXdLE
 ,,CHVRCHES - Over (Live at Audio São Paulo),,,,16.03.2023,,Over,Live Video (Pro),https://www.youtube.com/watch?v=Dcmwaea5n0U
+,,"CHVRCHES - Tether (Soundcheck in São Paulo, Brazil) [March 17, 2023] | Instagram Story",,,Screen Violence,16.03.2023,,Tether,BTS,https://www.youtube.com/watch?v=Mdk6YmmZseE
 ,,"
 CHVRCHES - Clearest Blue - Live | Curitiba, BRASIL. | 21.03.2023 | (4K, 60 FPS, Dolby Vision)",,,Screen Violence,21.03.2023,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=0VsIiNb43pQ
 ,,CHVRCHES - Entrevista 89,,,Screen Violence,22.03.2023,,,Interview,https://www.youtube.com/watch?v=U-edwpzVSZw
+,,"Chvrches (Live) - Over (Rio de Janeiro, Brazil - Sacadura 154) (3/24/2023)",,,Screen Violence,24.03.2023,,Over,Live Video (Fan),https://www.youtube.com/watch?v=lSBLLX63DAs
+,,"CHVRCHES - Death Stranding (Sacadura 154, 24/03/23)",,,Screen Violence,24.03.2023,,Death Stranding,Live Video (Fan),https://www.youtube.com/watch?v=nAV3KisxFPQ
+,,"CHVRCHES - Tether (Sacadura 154, 24/03/23)",,,Screen Violence,24.03.2023,,Tether,Live Video (Fan),https://www.youtube.com/watch?v=WvncmogBbOw
 ,,Coldplay feat. Lauren Mayberry (CHVRCHES) – Cry Cry Cry (Brazil),,,Screen Violence,25.03.2023,,,Live Video (Pro),https://www.youtube.com/watch?v=rAVE7VLhHec
+,,"CHVRCHES - Live in Rio de Janeiro, Brazil (March 26, 2023) | Clip",,,Screen Violence,26.03.2023,,,BTS,https://www.youtube.com/watch?v=Lzo0RC57LXQ
 ,,"03.28. Clearest Blue, Rio",,,Screen Violence,28.03.2023,,Clearest Blue,Live Video (Pro),https://www.tiktok.com/@leahbarylsky/video/7229432650572909867?is_from_webapp=1&sender_device=pc&web_id=7600491016081016342
 ,,CHVRCHES in Brazil - (c) by Leah Barylsky,,,Screen Violence,28.03.2023,,,BTS,https://vimeo.com/908441679?fl=pl&fe=cm
+,,"CHVRCHES - Live at The Tonight Show Starring Jimmy Fallon (April 3, 2023) - TikTok Video",,,Screen Violence,03.04.2023,,,,https://www.youtube.com/watch?v=uXnd2wwRz4o
 ,,CHVRCHES live in Barcelona / Support Act for Coldplay 24.05.2023 / in UHD 4K,,,Screen Violence,24.05.2023,,,Live Video (Fan),https://www.youtube.com/watch?v=YTN_m7YFgdE
 ,,"CHVRCHES - Forever (Live in Barcelona, Spain) [May 25, 2023]",,,Screen Violence,25.05.2023,,Forever,Live Video (Fan),https://www.youtube.com/watch?v=ggRMxF6i7Q8
 ,,"CHVRCHES - Clearest Blue (Live in Barcelona, Spain) [May 27, 2023]",,,Screen Violence,27.05.2023,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=VQwg7KydhtE
@@ -1970,7 +2022,12 @@ CHVRCHES - Clearest Blue - Live | Curitiba, BRASIL. | 21.03.2023 | (4K, 60 FPS, 
 ,,Chvrches - How Not To Drown May 28th 2023 Estadi Lluis Companys (Barcelona),,,Screen Violence,28.05.2023,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=itEvbFQspkU
 ,,Chvrches - Asking for a Friend May 28th 2023 Estadi Lluis Companys (Barcelona),,,Screen Violence,28.05.2023,,Asking for a Friend,Live Video (Fan),https://www.youtube.com/watch?v=Y4DarfBqBGc
 ,,Chvrches - The Mother We Share May 28th 2023 Estadi Lluis Companys (Barcelona),,,Screen Violence,28.05.2023,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=8XEmHiycXXA
+,,CHVRCHES at the Coldplay concert in Manchester,,,Screen Violence,01.06.2023,,,,https://www.youtube.com/shorts/QKX52-Lo1lU
+,,CHVRCHES & Coldplay - Whats Love Got To Do With It (Tina Turner Tribute / Manchester),,,Screen Violence,01.06.2023,,,Live Video (Fan),https://www.youtube.com/watch?v=kTdMVLg6XZo
+,,CHVRCHES LIVE STAGE FRONT MANCHESTER 3RD JUNE 2023. COLDPLAY SUPPORT ACT.,,,Screen Violence,03.06.2023,,Bury It,Live Video (Fan),https://www.youtube.com/watch?v=zbpjSGZRs_8
 ,,Chvrches - Bury it - Live at the Eithad Stadium Manchester Sunday 4th June 2023,,,Screen Violence,04.06.2023,,Bury It,Live Video (Fan),https://www.youtube.com/watch?v=tECwkV4XCIw
+,,Chvrches - How Not To Drown [Live] - Cardiff (6 June 2023),,,Screen Violence,06.06.2023,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=NYmBnH9c3X8
+,,Chvrches - Miracle [Live] - Cardiff (6 June 2023),,,Screen Violence,06.06.2023,,Miracle,Live Video (Fan),https://www.youtube.com/watch?v=Oxa9UEA9jm4
 ,,"Chvrches (Live) - Bury It (Nottingham, UK - Rock City) (6/9/2023)",,Av Kv,Screen Violence,09.06.2023,,Bury It,Live Video (Fan),https://www.youtube.com/watch?v=CAKBabHNqyM
 ,,CHVRCHES - Asking For A Friend - The Mother We Share - Clearest Blue @ Rock City - Nottingham,,,Screen Violence,09.06.2023,,"Asking for a Friend, The Mother We Share, Clearest Blue",Live Video (Fan),https://www.youtube.com/watch?v=ItYkEOae8EM
 ,,"Chvrches (Live) - California (Glasgow, Scotland - Barrowland Ballroom) (6/10/2023)",,Av Kv,Screen Violence,10.06.2023,,California,Live Video (Fan),https://www.youtube.com/watch?v=BaXdLuzD4JY
@@ -1999,10 +2056,12 @@ CHVRCHES - Clearest Blue - Live | Curitiba, BRASIL. | 21.03.2023 | (4K, 60 FPS, 
 ,,CHVRCHES live in Mailand / Milano / Milan / full show /Komplettes Konzert / #chvrches,,,Screen Violence,25.06.2023,,,Live Video (Fan),https://www.youtube.com/watch?v=OwrGHHmIf4I
 ,,"CHVRCHES - Asking For A Friend (Live in Milan, San Siro, 26/06/2023)",,,Screen Violence,26.06.2023,,Asking for a Friend,Live Video (Fan),https://www.youtube.com/watch?v=XTLTwXEgbrw
 ,,"Cry Cry Cry - Coldplay with Lauren Mayberry from CHVRCHES in Milan - June 28, 2023",,,Screen Violence,28.06.2023,,,Live Video (Fan),https://www.youtube.com/watch?v=5Yk9EwMMrV8
+,,Cvrches Milano San Siro supporter dei Coldplay,,,Screen Violence,29.06.2023,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=lxt8s1JTMT8
 ,,"Lauren Mayberry (Chvrches) Live - Bird - 9:30 Club, DC - 9/4/23",,,,04.09.2023,,Bird,Live Video (Fan),https://www.youtube.com/watch?v=47yfpj56N5w
 ,,"3/9 Lauren Mayberry - Change Shapes (First Performance!) @ 9:30 Club, Washington, DC 9/04/23",,,,04.09.2023,,Change Shapes,Live Video (Fan),https://www.youtube.com/watch?v=ZiEmlipEazI
 ,,"Lauren Mayberry - Crocodile Tears - The Anthem, Washington DC - Sep 5, 2023",,,Vicious Creature,05.09.2023,,Crocodile Tears,Live Video (Fan),https://www.youtube.com/watch?v=bC8qso5O7_E
 ,,"Lauren Mayberry (Live) - Under the Knife (Washington, DC - The Anthem) (9/6/2023) (Unreleased)",,Av Kv,Vicious Creature,06.09.2023,,Under the knife,Live Video (Fan),https://www.youtube.com/watch?v=G6o71R-oES0
+,,Lauren Mayberry - Under the Knife (live),,,Vicious Creature,08.09.2023,,Under the knife,Live Video (Fan),https://www.youtube.com/watch?v=HypDgoG-Y5Q
 ,,"Lauren Mayberry (Live) - Are You Awake? (Kingston, RI - The Ryan Center) (9/9/2023)",,Av Kv,Vicious Creature,09.09.2023,,Are You Awake?,Live Video (Fan),https://www.youtube.com/watch?v=inQX5AHOTDY
 ,,"Lauren Mayberry (Live) - Crocodile Tears (New Haven, CT - Westville Music Bowl) (9/10/2023)",,Av Kv,Vicious Creature,10.09.2023,,Crocodile Tears,Live Video (Fan),https://www.youtube.com/watch?v=Tk9K0n-boJU
 ,,Lauren Mayberry Chvrches Like A Prayer Madonna cover live Westville Music Bowl New Haven CT 9/10/23,,,Vicious Creature,10.09.2023,,Like a Prayer  (Madonna Cover),Live Video (Fan),https://www.youtube.com/watch?v=plKD5CU6wrI
@@ -2065,7 +2124,7 @@ CHVRCHES - Clearest Blue - Live | Curitiba, BRASIL. | 21.03.2023 | (4K, 60 FPS, 
 ,,"Under The Knife - Lauren Mayberry, Manchester Academy 2 08/10/2023",,,Vicious Creature,08.10.2023,,Under the knife,Live Video (Fan),https://www.youtube.com/watch?v=8XB8YD49-Qc
 ,,"Crocodile Tears - Lauren Mayberry, Manchester Academy 2 08/10/2023",,,Vicious Creature,08.10.2023,,Crocodile Tears,Live Video (Fan),https://www.youtube.com/watch?v=xPN3RZQkuYo
 ,,"Lauren Mayberry - ""Bird"" (Manchester, October 8th 2023)",,,Vicious Creature,08.10.2023,,Bird,Live Video (Fan),https://www.youtube.com/watch?v=YL1kabOPOnA
-,,Lauren Mayberry BBC Radio 1 Interview in full 10-10-23,,,Vicious Creature,09.10.2023,,,Interview,https://www.youtube.com/watch?v=2RWHKgeQRHo
+www.youtube.com-watch-v-2RWHKgeQRHo,,Lauren Mayberry BBC Radio 1 Interview in full 10-10-23,,,Vicious Creature,09.10.2023,,,Interview,https://www.youtube.com/watch?v=2RWHKgeQRHo
 ,,"Lauren Mayberry (live) - Sorry, Etc @ Koko London (09/10/2023)",,,,09.10.2023,,"""Sorry, Etc""",Live Video (Fan),https://www.youtube.com/watch?v=fEEEicTRJ14
 ,,Lauren Mayberry covers the Spice Girls in London,,Viva Forever,,09.10.2023,,Viva Forever (Spice Girls Cover),Live Video (Fan),https://www.youtube.com/watch?v=H7_Yg9qt72o
 ,,"Lauren Mayberry - Sorry, Etc @ Melkweg OZ (2023-10-11)",,,Vicious Creature,11.10.2023,,"""Sorry, Etc""",Live Video (Fan),https://www.youtube.com/watch?v=LVY5gXemjoY
@@ -2110,6 +2169,8 @@ CHVRCHES - Clearest Blue - Live | Curitiba, BRASIL. | 21.03.2023 | (4K, 60 FPS, 
 ,,"Lauren Mayberry The Mother We Share, Sorry Etc. Festival Vaivén Mexico",,,Vicious Creature,27.04.2024,,"The Mother We Share, ""Sorry, Etc""",Live Video (Fan),https://www.youtube.com/watch?v=BXoyflbS4hs
 ,,"Lauren Mayberry (Live) - Shame (Brighton, UK - Great Escape Festival) (5/17/2024)",,Av Kv,Vicious Creature,17.05.2024,Late,Shame,Live Video (Fan),https://www.youtube.com/watch?v=d5w_PhUMR5k
 ,,"SHOT FROM // LAUREN MAYBERRY // CROCODILE TEARS // LIVE AT THE GREAT ESCAPE, BRIGHTON",,,Vicious Creature,17.05.2024,Late,Crocodile Tears,Live Video (Fan),https://www.youtube.com/watch?v=ON0rQFSTQ28
+,,"Lauren Mayberry - Live at the Showcase By The Sea (May 17, 2024)",,,Vicious Creature,17.05.2024,Early,,Live Video (Fan),https://www.facebook.com/watch/?v=963783391870527
+,,"Lauren Mayberry - Live at the Showcase By The Sea (May 17, 2024)",,,Vicious Creature,17.05.2024,Early,,Live Video (Fan),https://www.instagram.com/reels/C7HSp5vt-xx/
 ,,Lauren Mayberry - Live at Bumbershoot 2024,,,,31.08.2024,,"Under the knife, Like a Prayer  (Madonna Cover), Shame",Live Video (Fan),https://www.youtube.com/watch?v=HPQGDQh-PaQ
 ,,"Lauren Mayberry - Crocodile Tears, LIVE in Berkeley, Sept 19, 2024, @ The Greek Theatre, 4k",,,Vicious Creature,19.09.2024,,Crocodile Tears,Live Video (Fan),https://www.youtube.com/watch?v=yOoodB8MJV8
 ,,"Lauren Mayberry - Change Shapes, LIVE in Berkeley, Sept 19, 2024, @ The Greek Theatre, 4k",,,Vicious Creature,19.09.2024,,Change Shapes,Live Video (Fan),https://www.youtube.com/watch?v=68aFCpsNvN4
@@ -2120,6 +2181,7 @@ CHVRCHES - Clearest Blue - Live | Curitiba, BRASIL. | 21.03.2023 | (4K, 60 FPS, 
 ,,"Lauren Mayberry - Sorry, Etc, LIVE in Berkeley, Sept 19, 2024, @ The Greek Theatre, 4k",,,Vicious Creature,19.09.2024,,"""Sorry, Etc""",Live Video (Fan),https://www.youtube.com/watch?v=vcUPWlN6pCk
 ,,"Lauren Mayberry, Greek Theater, Berkeley, CA, Sept 19, 2025.",,,Vicious Creature,19.09.2024,,Something in the Air,Live Video (Fan),https://www.youtube.com/watch?v=_GXGDXmgn_E&t=1214s
 ,,"Something In The Air - Lauren Mayberry - Berkeley - Sep 19, 2024",,,Vicious Creature,19.09.2024,,Something in the Air,Live Video (Fan),https://www.youtube.com/watch?v=70bxyXPwdbM
+,,"⁠Something in the Air - ‪@LaurenEveMayberryOfficial‬ ❤️ 🇫🇷 at Zenith, Paris (Oct. 31, 2024)",,,Vicious Creature,31.10.2024,,,Live Video (Fan),https://www.youtube.com/watch?v=rEgOsvdpxJw
 ,,"Lauren Mayberry “Crocodile Tears” Forest National, Brussels - Nov 1, 2024",,,Vicious Creature,01.11.2024,,Crocodile Tears,Live Video (Fan),https://www.youtube.com/watch?v=oLPDApA-xyc
 ,,Lauren Mayberry - Mantra (Brussels),,,Vicious Creature,01.11.2024,,Mantra,Live Video (Fan),https://www.youtube.com/watch?v=G4lvK0hr-hE
 ,,"Lauren Mayberry - Mantra | LIVE @ Forest National (Forest, Bruxelles, Belgique) 01 NOV. 2024",,,Vicious Creature,01.11.2024,,Mantra,Live Video (Fan),https://www.youtube.com/watch?v=h8SnqAC3PmE
@@ -2141,7 +2203,7 @@ CHVRCHES - Clearest Blue - Live | Curitiba, BRASIL. | 21.03.2023 | (4K, 60 FPS, 
 ,,Lauren Mayberry - Something In The Air (acoustic) on Channel 4 Sunday brunch 12-1-24,,,Vicious Creature,01.12.2024,,Something in the Air,Live Video (Pro),https://www.youtube.com/watch?v=UFAH4mX_Z2s
 ,,Lauren Mayberry on Channel 4 Sunday Brunch 12-1-24,,,Vicious Creature,01.12.2024,,,Interview,https://www.youtube.com/watch?v=djfxnnL8Vec&t=13s
 ,,Lauren Mayberry - Something In The Air (Live From Jimmy Kimmel Live! / 2024),,,Vicious Creature,04.12.2024,,Something in the Air,Live Video (Pro),https://www.youtube.com/watch?v=NEuZzh3aQ24
-,,"Q&A session with Lauren Mayberry and Vic Galloway at the Òran Mór - Dec 8, 2024",,,Vicious Creature,08.12.2024,Late,,Interview,https://www.youtube.com/watch?v=5pbl7IGVk0s&t=31s
+www.youtube.com-watch-v-5pbl7IGVk0s,,"Q&A session with Lauren Mayberry and Vic Galloway at the Òran Mór - Dec 8, 2024",,,Vicious Creature,08.12.2024,Late,,Interview,https://www.youtube.com/watch?v=5pbl7IGVk0s,,extracted
 ,,Lauren Mayberry - Anywhere But Dancing - Assai Records Edinburgh 09 December 2024,,,Vicious Creature,09.12.2024,,Anywhere But Dancing,Live Video (Fan),https://www.youtube.com/watch?v=G-J0Y8KTZ38
 ,,Lauren Mayberry- Sunday Best live Liverpool 10/12/2024,,,Vicious Creature,10.12.2024,,Sunday Best,Live Video (Fan),https://www.youtube.com/watch?v=l-psJVxXlWc
 ,,"Lauren Mayberry - Something in the Air (Acoustic) Live at Rough Trade Liverpool, 10th December 2024",,,Vicious Creature,10.12.2024,,Something in the Air,Live Video (Fan),https://www.youtube.com/watch?v=jdExSqTB7Jc
@@ -2269,8 +2331,16 @@ CHVRCHES - Clearest Blue - Live | Curitiba, BRASIL. | 21.03.2023 | (4K, 60 FPS, 
 ,,"Lauren Mayberry, Bottelrock Festival - Something In The Air",,,Vicious Creature,24.05.2025,,Something In The Air,Live Video (Fan),https://www.instagram.com/avkv85/reel/DKyd7Lsss5C/
 ,,"Bottlerockfest recap, ending the VC era 🥂",,Lauren Mayberry,,24.05.2025,,Change Shapes,,https://www.youtube.com/shorts/Y35EaHWI7DU
 ,,"DEATH STRANDING - World Strand Tour 2 - London UK // Hideo Kojima, special guest CHVRCHES LIVE 2025",,,,01.07.2025,,Death Stranding,Live Video (Fan),https://www.youtube.com/watch?v=4NCfVZpND1g
+,,"CHVRCHES (Live) - Nightmares (London, UK - The Royal Albert Hall) (3/27/2026) (Live Debut)",,,CHV 5,27.03.2026,,Nightmares,Live Video (Fan),https://www.youtube.com/watch?v=d7MmPeIOCUQ
+,,"CHVRCHES - Lullabies - Live Debut at the Royal Albert Hall - March 27th, 2026",,,CHV 5,27.03.2026,,Lullabies,Live Video (Fan),https://www.youtube.com/watch?v=aXP3lqwzVNg
+,,"CHVRCHES: ""Conman"" (live) at Royal Albert Hall, London, 27 March 2026 (4K)",,,CHV 5,27.03.2026,,Conman,Live Video (Fan),https://www.youtube.com/watch?v=dkCqzXZOkus
+,,"CHVRCHES - Conman - Live Debut at the Royal Albert Hall - March 27th, 2026",,,CHV 5,27.03.2026,,Conman,Live Video (Fan),https://www.youtube.com/watch?v=ol79e661Lbg
+,,CHVRCHES - Conman (New Song 2026) @ RAH 27-3-2026,,,CHV 5,27.03.2026,,Conman,Live Video (Fan),https://www.youtube.com/watch?v=h_1SBQyjAFw
+,,Brand new CHVRCHES track 'Conman' - first ever performance @ Royal Albert Hall,,,CHV 5,27.03.2026,,Conman,Live Video (Fan),https://www.youtube.com/watch?v=uqSG3MPQ3jM
+,,Chvrches - How Not to Drown - Royal Albert Hall March 2026,,,CHV 5,27.03.2026,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=sPegVV24UhI
+,,TheChvrches@thecure CureAted by @RobertSmith to the TeenageCancerTrust this night at RAH,,,CHV 5,27.03.2026,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=aHZsaUVWKJQ
 ,,Chvrches Confess Guilty Pleasures and Embarrassing Moments | Much Confessional,,,Love Is Dead,????,,,Interview,https://www.youtube.com/watch?v=RFrLVx6h4eg
-,,"Chvrches release new single ""Get Out""",,,Love Is Dead,????,,,Interview,https://www.youtube.com/watch?v=5UUUkbEE9LI
+www.youtube.com-watch-v-5UUUkbEE9LI,,"Chvrches release new single ""Get Out""",,,Love Is Dead,????,,,Interview,https://www.youtube.com/watch?v=5UUUkbEE9LI,,extracted
 ,,Episode 6: Iain Cook (CHVRCHES/Protection),,,,????,,,Interview,https://www.youtube.com/watch?v=UCVbLMx724k
 ,,CHVRCHES - Forever / Death Stranding - 2 songs,,,,????,,"Forever, Death Stranding",Live Video (Pro),https://www.youtube.com/watch?v=DYqWrs6NJe4
 ,,CHVRCHES Miracle (Lauren Mayberry) TV Show Set,,,,????,,Miracle,Live Video (Pro),https://www.youtube.com/watch?v=FqWkQfowqZM
@@ -2283,59 +2353,5 @@ CHVRCHES - Clearest Blue - Live | Curitiba, BRASIL. | 21.03.2023 | (4K, 60 FPS, 
 ,,Chvrches - Lungs (Early live performance late 2012),,,The Bones of What You Believe,?????,,Lungs,,https://www.youtube.com/watch?v=1uPuM29ELo0
 ,,Chvrches interview 2013,,,The Bones of What You Believe,?????,,,Interview,https://www.youtube.com/watch?v=n1Tbw3L5Ths
 ,,Chvrches Full Show HD - Fast Five - 2013 - New York City - New video to youtube!,,,The Bones of What You Believe,?????,,,Live Video (Pro),https://www.youtube.com/watch?v=IihEIqIPtCY
-,,Lauren Mayberry (Chvrches) (HQ)- covering Case Of You by Joni Mitchell,,,Every Open Eye,12.12.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=Q8FQFQ3qIeM
-,,Lauren Mayberry (Chvrches) (HQ)- Covering Firework- Katy Perry,,,Every Open Eye,12.12.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=R_PfxqYLKJA
-,,"Lorde, Carly Rae Jepsen, Charli XCX, Lauren Mayberry, Bleachers- Go Your Own Way- 12/12/16",,,Every Open Eye,12.12.2016,,,Live Video (Fan),https://www.youtube.com/watch?v=ZJ47n3P8-RU&t=2s
-,,Chvrches - The Mother we Share - Southside 2018,,,Love Is Dead,23.06.2018,,,Live Video (Fan),https://www.youtube.com/watch?v=PVc7XywH1ho
-,,10 - City of Trees 2018 - Chvrches - Clearest Blue (Live Clip),,,Love Is Dead,22.09.2018,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=6yBFg78lAfI
-,,07 - City of Trees 2018 - Chvrches - Miracle (Live Clip),,,Love Is Dead,22.09.2018,,Miracle,Live Video (Fan),https://www.youtube.com/watch?v=o6Bc-S64LMA
-,,14 - City of Trees 2018 - Chvrches - Never Say Die (Live Clip),,,Love Is Dead,22.09.2018,,Never Say Die,Live Video (Fan),https://www.youtube.com/watch?v=UucnxnBl8VI
-,,12 - City of Trees 2018 - Chvrches - The Mother We Share (Live Clip),,,Love Is Dead,22.09.2018,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=gvx53m6IgxM
-,,"14 – Chvrches – The Mother We Share (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=P2qknwUaqFA
-,,11 – CHVRCHES – Night Sky (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Night Sky,Live Video (Fan),https://www.youtube.com/watch?v=izVrXZ54IP0
-,,05 – CHVRCHES – How Not To Drown (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=Q3uqy0JMO3Y
-,,16 – CHVRCHES – The Mother We Share (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=ohZDWwcuW_Q
-,,01 – CHVRCHES – He Said She Said (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,He Said She Said,Live Video (Fan),https://www.youtube.com/watch?v=I430vFpDD6Q
-,,03 – CHVRCHES – Leave a Trace (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Leave a Trace,Live Video (Fan),https://www.youtube.com/watch?v=daYgjE9kFRQ
-,,07 – CHVRCHES – Science/Visions (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Science/Visions,Live Video (Fan),https://www.youtube.com/watch?v=jOAxHoYdR6g
-,,"13.0 – Chvrches – Clearest Blue (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=tIzm4nt3ShE
-,,"09 – Chvrches – Deliverance (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Deliverance,Live Video (Fan),https://www.youtube.com/watch?v=tHVdSHIae6I
-,,"03 – Chvrches – We Sink (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,We Sink,Live Video (Fan),https://www.youtube.com/watch?v=4wOHAjuDVMQ
-,,06 – CHVRCHES – Violent Delights (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Violent Delights,Live Video (Fan),https://www.youtube.com/watch?v=BiE7ThOaBiY
-,,04 – CHVRCHES – California (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,California,Live Video (Fan),https://www.youtube.com/watch?v=buTr7OWVIf8
-,,09 – CHVRCHES – Bury It (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Bury It,Live Video (Fan),https://www.youtube.com/watch?v=wmy7WhrTCDs
-,,08 – CHVRCHES – Good Girls (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Good Girls,Live Video (Fan),https://www.youtube.com/watch?v=SKc9w8JA_Dg
-,,10 – CHVRCHES – Miracle (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Miracle,Live Video (Fan),https://www.youtube.com/watch?v=kK3fz8wxC4c
-,,12 – CHVRCHES – Final Girl (Live) @ Bill Graham Civic Auditorium,,,Screen Violence,16.12.2021,,Final Girl,Live Video (Fan),https://www.youtube.com/watch?v=t3xBfQvCTMQ
-,,"08 – Chvrches – Under The Tide (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Under the Tide,Live Video (Fan),https://www.youtube.com/watch?v=wGG6vyrbTOA
-,,"01 – Chvrches – Get Out (Live) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Get Out,Live Video (Fan),https://www.youtube.com/watch?v=-riEqr_miec
-,,"15.0 – Chvrches – Never Say Die (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Never Say Die,Live Video (Fan),https://www.youtube.com/watch?v=Yzzq3-GwzDQ
-,,"11 – Chvrches – Recover (Live Clip) @ The Greek Theatre, Berkeley",,,Love Is Dead,19.04.2019,,Recover,Live Video (Fan),https://www.youtube.com/watch?v=b5GtheXpj7A
-,,CHVRCHES - Acoustic Session Live Stream - Alfa91.3FM - 2 Songs,,,Love Is Dead,21.05.2020,,"Forever, Death Stranding",Live Video (Pro),https://www.youtube.com/watch?v=eQtNiZlg7FU&t=1s
-,,CHVRCHES - House Party - Full Interview + Songs,,,Love Is Dead,16.05.2020,,"Forever, Death Stranding",Live Video (Pro),https://www.youtube.com/watch?v=saj5gMr-shM
-,,2021 CHVRCHES in Tulsa,,,Screen Violence,15.11.2021,,,Live Video (Fan),https://www.youtube.com/watch?v=-qzrgbLuL_A
-,,"CHRVCHES - The Mother We Share - Tulsa, OK, Nov 15, 2021",,,Screen Violence,15.11.2021,,The Mother We Share,Live Video (Fan),https://www.youtube.com/watch?v=LbCn3B9fq_s
-,,"CHRVCHES - Clearest Blue - Tulsa, OK, Nov 15, 2021",,,Screen Violence,15.11.2021,,Clearest Blue,Live Video (Fan),https://www.youtube.com/watch?v=B0ArbAz5XG8
-,,"CHRVCHES - Never Say Die - Tulsa, OK, Nov 15, 2021",,,Screen Violence,15.11.2021,,Never Say Die,Live Video (Fan),https://www.youtube.com/watch?v=a1gi95fiZlA
-,,Chvrches - California - Denver 2021,,,Screen Violence,08.12.2021,,California,Live Video (Fan),https://www.youtube.com/watch?v=EM4H7hwlmJQ
-,,"Chvrches (Live) - Good Girls (Boise, ID - Knitting Factory) (10/3/2022)",,Av Kv,Screen Violence,03.10.2022,,Good Girls,Live Video (Fan),https://www.youtube.com/watch?v=Exp0Dl1PUdw&t=20s
-,,"Chvrches “How Not to Drown” live Boise, ID 10/03/22 ‪@CHVRCHES‬",,,Screen Violence,03.10.2022,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=tqT7jnWSETw
-,,"CHVRCHES - Forever (Live in São Paulo, Brazil) [March 11, 2023] | Official Clip",,,Screen Violence,11.03.2021,,Forever,Live Video (Pro),https://www.youtube.com/watch?v=j5YcG7ebkUI
-,,"CHVRCHES - The Mother We Share (Live in São Paulo, Brazil) [March 11, 2023] | Official Clip",,,Screen Violence,11.03.2021,,The Mother We Share,Live Video (Pro),https://www.youtube.com/watch?v=aD72EQ2oGKo
-,,CHVRCHES - Brazil Tour 2023 | Montage Clip,,,Screen Violence,11.03.2021,,,BTS,https://www.youtube.com/watch?v=-s9WljQy8XU
-,,"CHVRCHES - Tether (Soundcheck in São Paulo, Brazil) [March 17, 2023] | Instagram Story",,,Screen Violence,17.03.2023,,Tether,BTS,https://www.youtube.com/watch?v=Mdk6YmmZseE
-,,"Chvrches (Live) - Over (Rio de Janeiro, Brazil - Sacadura 154) (3/24/2023)",,,Screen Violence,24.03.2023,,Over,Live Video (Fan),https://www.youtube.com/watch?v=lSBLLX63DAs
-,,"CHVRCHES - Death Stranding (Sacadura 154, 24/03/23)",,,Screen Violence,24.03.2023,,Death Stranding,Live Video (Fan),https://www.youtube.com/watch?v=nAV3KisxFPQ
-,,"CHVRCHES - Tether (Sacadura 154, 24/03/23)",,,Screen Violence,24.03.2023,,Tether,Live Video (Fan),https://www.youtube.com/watch?v=WvncmogBbOw
-,,"CHVRCHES - Live in Rio de Janeiro, Brazil (March 26, 2023) | Clip",,,Screen Violence,26.03.2023,,,BTS,https://www.youtube.com/watch?v=Lzo0RC57LXQ
-,,"CHVRCHES - Live at The Tonight Show Starring Jimmy Fallon (April 3, 2023) - TikTok Video",,,Screen Violence,03.04.2023,,,,https://www.youtube.com/watch?v=uXnd2wwRz4o
-,,CHVRCHES at the Coldplay concert in Manchester,,,Screen Violence,01.06.2023,,,,https://www.youtube.com/shorts/QKX52-Lo1lU
-,,CHVRCHES LIVE STAGE FRONT MANCHESTER 3RD JUNE 2023. COLDPLAY SUPPORT ACT.,,,Screen Violence,03.06.2023,,Bury It,Live Video (Fan),https://www.youtube.com/watch?v=zbpjSGZRs_8
-,,Chvrches - How Not To Drown [Live] - Cardiff (6 June 2023),,,Screen Violence,06.06.2023,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=NYmBnH9c3X8
-,,Chvrches - Miracle [Live] - Cardiff (6 June 2023),,,Screen Violence,06.06.2023,,Miracle,Live Video (Fan),https://www.youtube.com/watch?v=Oxa9UEA9jm4
-,,CHVRCHES & Coldplay - Whats Love Got To Do With It (Tina Turner Tribute / Manchester),,,Screen Violence,01.06.2023,,,Live Video (Fan),https://www.youtube.com/watch?v=kTdMVLg6XZo
-,,Cvrches Milano San Siro supporter dei Coldplay,,,Screen Violence,29.06.2023,,How Not to Drown,Live Video (Fan),https://www.youtube.com/watch?v=lxt8s1JTMT8
-,,Lauren Mayberry - Under the Knife (live),,,Vicious Creature,08.09.2023,,Under the knife,Live Video (Fan),https://www.youtube.com/watch?v=HypDgoG-Y5Q
-,,"Lauren Mayberry - Live at the Showcase By The Sea (May 17, 2024)",,,Vicious Creature,17.05.2024,,,Live Video (Fan),https://www.facebook.com/watch/?v=963783391870527
-,,"Lauren Mayberry - Live at the Showcase By The Sea (May 17, 2024)",,,Vicious Creature,17.05.2024,,,Live Video (Fan),https://www.instagram.com/reels/C7HSp5vt-xx/
-,,"⁠Something in the Air - ‪@LaurenEveMayberryOfficial‬ ❤️ 🇫🇷 at Zenith, Paris (Oct. 31, 2024)",,,Vicious Creature,31.10.2024,,,Live Video (Fan),https://www.youtube.com/watch?v=rEgOsvdpxJw
+,,Lacoste Pool Party Interview - Chvrches,,,The Bones of What You Believe,14.04.2014,,,Interview,https://www.youtube.com/watch?v=iAfRrjJiLWo
+,,"Lauren Mayberry - ""The industry doesn't employ me, the fans do""",,,Vicious Creature,23.05.2024,,,Interview,https://www.youtube.com/watch?v=tB9HzcdezOs
